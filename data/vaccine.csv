@@ -81,7 +81,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,2022-04-08,All,1640446,9986
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2022-04-08,All,51119081,267412
 156,CN,CHN,156,,,,China,30.5928,114.3055,China,2022-04-08,All,3293262316,234449
-344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-04-08,All,15367446,204981
+344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-04-08,All,15406547,205503
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2022-04-08,All,1271351,195790
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2022-04-08,All,81346329,159869
 17001,CO,COL,170,,,Amazonas,Colombia,-1.4429,-71.5724,"Amazonas, Colombia",2022-04-08,All,127338,166261
@@ -355,15 +355,15 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2022-04-08,All,2936619,45011
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2022-04-08,All,10283986,141349
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2022-04-08,All,2877971,152580
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-04-08,All,5324199,78005
-422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-04-08,All,187681,44306
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-04-08,All,5324271,78006
+422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-04-08,All,187682,44306
 422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-04-08,All,209360,45718
-422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-04-08,All,821673,189653
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-04-08,All,413007,77292
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-04-08,All,2075900,136570
+422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-04-08,All,821696,189659
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-04-08,All,413012,77293
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-04-08,All,2075935,136572
 422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-04-08,All,396465,103289
-422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-04-08,All,620586,78460
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-04-08,All,570763,96726
+422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-04-08,All,620591,78461
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-04-08,All,570766,96727
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2022-04-08,All,28764,
 426,LS,LSO,426,,,,Lesotho,-29.61,28.2336,Lesotho,2022-04-08,All,905438,42265
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2022-04-08,All,1132502,22391
@@ -467,7 +467,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-04-08,All,23698913,232417
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-04-08,All,6666092,231376
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-04-08,All,16747758,87057
-643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-04-08,All,164667711,112836
+643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-04-08,All,164714029,112868
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",2022-04-08,All,,0
 64302,RU,RUS,643,,,Altai Krai,Russia,52.6932243,82.69314240000001,"Altai Krai, Russia",2022-04-08,All,,0
 64304,RU,RUS,643,,,Amur Oblast,Russia,52.8032368,128.437295,"Amur Oblast, Russia",2022-04-08,All,,0
@@ -538,7 +538,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 64374,RU,RUS,643,,,Tyva Republic,Russia,51.4017149,93.8582593,"Tyva Republic, Russia",2022-04-08,All,,0
 64375,RU,RUS,643,,,Udmurt Republic,Russia,57.1961165,52.69598320000001,"Udmurt Republic, Russia",2022-04-08,All,,0
 64376,RU,RUS,643,,,Ulyanovsk Oblast,Russia,54.1463177,47.2324921,"Ulyanovsk Oblast, Russia",2022-04-08,All,,0
-64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-04-08,All,164667711,
+64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-04-08,All,164714029,
 64377,RU,RUS,643,,,Vladimir Oblast,Russia,56.0503336,40.6561633,"Vladimir Oblast, Russia",2022-04-08,All,,0
 64378,RU,RUS,643,,,Volgograd Oblast,Russia,49.6048339,44.29035820000001,"Volgograd Oblast, Russia",2022-04-08,All,,0
 64379,RU,RUS,643,,,Vologda Oblast,Russia,60.0391461,43.1215213,"Vologda Oblast, Russia",2022-04-08,All,,0
@@ -737,7 +737,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-04-08,All,12148574,222366
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000006,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-04-08,All,68800,177695
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-04-08,All,6944049,221246
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-04-08,All,8089599,232879
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-04-08,All,8091897,232945
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-04-08,All,45807547,136864
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-04-08,All,199810,68269
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-04-08,All,37860994,133144
