@@ -126,22 +126,22 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 191,HR,HRV,191,,,,Croatia,45.1,15.2,Croatia,2022-04-10,All,5231660,127437
 192,CU,CUB,192,,,,Cuba,21.521757,-77.78116700000002,Cuba,2022-04-10,All,35471647,313170
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,2022-04-10,All,1773485,146889
-203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,2022-04-10,All,17522097,163620
-20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2022-04-10,All,1058680,166077
-20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2022-04-10,All,1959170,167480
-20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2022-04-10,All,464572,158388
-20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2022-04-10,All,904041,162690
-20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2022-04-10,All,693531,157885
-20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2022-04-10,All,1778397,143879
-20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2022-04-10,All,912980,142665
-20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2022-04-10,All,795519,157439
-20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2022-04-10,All,958454,162163
-20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2022-04-10,All,3212914,252450
-20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2022-04-10,All,1867048,146477
+203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,2022-04-10,All,17522985,163628
+20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2022-04-10,All,1058682,166078
+20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2022-04-10,All,1959292,167491
+20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2022-04-10,All,464573,158389
+20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2022-04-10,All,904046,162690
+20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2022-04-10,All,693539,157887
+20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2022-04-10,All,1778399,143880
+20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2022-04-10,All,912994,142667
+20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2022-04-10,All,795583,157452
+20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2022-04-10,All,958517,162174
+20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2022-04-10,All,3213252,252477
+20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2022-04-10,All,1867110,146482
 20315,CZ,CZE,203,,,Unknown,Czechia,,,"Unknown, Czechia",2022-04-10,All,0,0
-20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2022-04-10,All,1253663,150976
-20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.473,"Vysocina, Czechia",2022-04-10,All,798448,155725
-20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2022-04-10,All,864680,146442
+20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2022-04-10,All,1253765,150988
+20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.473,"Vysocina, Czechia",2022-04-10,All,798453,155726
+20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2022-04-10,All,864780,146458
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2022-04-10,All,13212810,228113
 234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2022-04-10,All,103894,212614
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2022-04-10,All,79745,140465
@@ -439,7 +439,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 807,MK,MKD,807,,,,North Macedonia,41.6086,21.7453,North Macedonia,2022-04-10,All,1841819,88405
 578,NO,NOR,578,,,,Norway,60.472,8.4689,Norway,2022-04-10,All,11279290,208057
 512,OM,OMN,512,,,,Oman,21.512583,55.92325500000001,Oman,2022-04-10,All,7012356,137318
-586,PK,PAK,586,,,,Pakistan,30.3753,69.3451,Pakistan,2022-04-10,All,242821360,109927
+586,PK,PAK,586,,,,Pakistan,30.3753,69.3451,Pakistan,2022-04-10,All,243111622,110058
 585,PW,PLW,8,,,,Palau,7.515,134.5825,Palau,2022-04-10,All,44526,247256
 591,PA,PAN,591,,,,Panama,8.538,-80.7821,Panama,2022-04-10,All,7945389,184144
 598,PG,PNG,598,,,,Papua New Guinea,-6.314993,143.95555,Papua New Guinea,2022-04-10,All,574716,6423
