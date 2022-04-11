@@ -56,7 +56,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2022-04-11,All,2517260,107043
 76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2022-04-11,All,421028480,198075
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,2022-04-11,All,1078490,246521
-100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2022-04-11,All,4362216,62779
+100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2022-04-11,All,4363644,62800
 854,BF,BFA,854,,,,Burkina Faso,12.2383,-1.5616,Burkina Faso,2022-04-11,All,3320425,15884
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2022-04-11,All,51530066,94707
 108,BI,BDI,108,,,,Burundi,-3.3731,29.9189,Burundi,2022-04-11,All,21152,177
@@ -467,7 +467,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-04-11,All,23698913,232417
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-04-11,All,6679267,231833
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-04-11,All,16751382,87075
-643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-04-11,All,164716034,112869
+643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-04-11,All,164740429,112886
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",2022-04-11,All,,0
 64302,RU,RUS,643,,,Altai Krai,Russia,52.6932243,82.69314240000001,"Altai Krai, Russia",2022-04-11,All,,0
 64304,RU,RUS,643,,,Amur Oblast,Russia,52.8032368,128.437295,"Amur Oblast, Russia",2022-04-11,All,,0
@@ -538,7 +538,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 64374,RU,RUS,643,,,Tyva Republic,Russia,51.4017149,93.8582593,"Tyva Republic, Russia",2022-04-11,All,,0
 64375,RU,RUS,643,,,Udmurt Republic,Russia,57.1961165,52.69598320000001,"Udmurt Republic, Russia",2022-04-11,All,,0
 64376,RU,RUS,643,,,Ulyanovsk Oblast,Russia,54.1463177,47.2324921,"Ulyanovsk Oblast, Russia",2022-04-11,All,,0
-64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-04-11,All,164716034,
+64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-04-11,All,164740429,
 64377,RU,RUS,643,,,Vladimir Oblast,Russia,56.0503336,40.6561633,"Vladimir Oblast, Russia",2022-04-11,All,,0
 64378,RU,RUS,643,,,Volgograd Oblast,Russia,49.6048339,44.29035820000001,"Volgograd Oblast, Russia",2022-04-11,All,,0
 64379,RU,RUS,643,,,Vologda Oblast,Russia,60.0391461,43.1215213,"Vologda Oblast, Russia",2022-04-11,All,,0
@@ -737,7 +737,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-04-11,All,12164893,222665
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000006,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-04-11,All,68800,177695
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-04-11,All,6952855,221527
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-04-11,All,8108176,233414
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-04-11,All,8108182,233414
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-04-11,All,45807547,136864
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-04-11,All,199810,68269
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-04-11,All,37860994,133144
