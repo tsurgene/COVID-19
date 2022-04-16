@@ -126,20 +126,20 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 191,HR,HRV,191,,,,Croatia,45.1,15.2,Croatia,2022-04-16,All,5236555,127556
 192,CU,CUB,192,,,,Cuba,21.521757,-77.78116700000002,Cuba,2022-04-16,All,35556960,313923
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,2022-04-16,All,1773485,146889
-203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,2022-04-16,All,17535624,163746
+203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,2022-04-16,All,17535927,163749
 20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2022-04-16,All,1059268,166170
-20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2022-04-16,All,1960832,167622
-20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2022-04-16,All,464940,158514
+20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2022-04-16,All,1960903,167628
+20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2022-04-16,All,464955,158519
 20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2022-04-16,All,904499,162772
 20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2022-04-16,All,693980,157987
-20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2022-04-16,All,1779645,143980
+20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2022-04-16,All,1779646,143981
 20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2022-04-16,All,913561,142755
-20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2022-04-16,All,796013,157537
+20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2022-04-16,All,796025,157539
 20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2022-04-16,All,959061,162266
-20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2022-04-16,All,3216260,252713
-20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2022-04-16,All,1868942,146625
+20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2022-04-16,All,3216391,252723
+20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2022-04-16,All,1868985,146629
 20315,CZ,CZE,203,,,Unknown,Czechia,,,"Unknown, Czechia",2022-04-16,All,0,0
-20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2022-04-16,All,1254324,151055
+20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2022-04-16,All,1254354,151059
 20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.473,"Vysocina, Czechia",2022-04-16,All,799111,155855
 20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2022-04-16,All,865188,146528
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2022-04-16,All,13212810,228113
@@ -417,14 +417,14 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 504,MA,MAR,504,,,,Morocco,31.7917,-7.0926,Morocco,2022-04-16,All,54362452,147281
 508,MZ,MOZ,508,,,,Mozambique,-18.665695,35.529562,Mozambique,2022-04-16,All,27843440,89083
 516,,NAM,516,,,,Namibia,-22.9576,18.4904,Namibia,2022-04-16,All,839674,33046
-524,NP,NPL,524,,,,Nepal,28.1667,84.25,Nepal,2022-04-16,All,40520242,139068
-524003,NP,NPL,524,,,Bagmati,Nepal,27.6625,85.4376,"Bagmati, Nepal",2022-04-16,All,9996812,180792
-524004,NP,NPL,524,,,Gandaki,Nepal,28.3591,84.1013,"Gandaki, Nepal",2022-04-16,All,3956744,164606
-524006,NP,NPL,524,,,Karnali,Nepal,,,"Karnali, Nepal",2022-04-16,All,2117351,134827
-524001,NP,NPL,524,,,Province 1,Nepal,27.3372,87.3811,"Province 1, Nepal",2022-04-16,All,6503314,143404
-524002,NP,NPL,524,,,Province 2,Nepal,27.0135,85.6846,"Province 2, Nepal",2022-04-16,All,7227146,133733
-524005,NP,NPL,524,,,Province 5,Nepal,27.9207,82.7347,"Province 5, Nepal",2022-04-16,All,7052633,156750
-524007,NP,NPL,524,,,Sudurpashchim,Nepal,29.3863,82.3886,"Sudurpashchim, Nepal",2022-04-16,All,3666242,143632
+524,NP,NPL,524,,,,Nepal,28.1667,84.25,Nepal,2022-04-16,All,40646286,139501
+524003,NP,NPL,524,,,Bagmati,Nepal,27.6625,85.4376,"Bagmati, Nepal",2022-04-16,All,10055301,181849
+524004,NP,NPL,524,,,Gandaki,Nepal,28.3591,84.1013,"Gandaki, Nepal",2022-04-16,All,3963191,164874
+524006,NP,NPL,524,,,Karnali,Nepal,,,"Karnali, Nepal",2022-04-16,All,2117186,134816
+524001,NP,NPL,524,,,Province 1,Nepal,27.3372,87.3811,"Province 1, Nepal",2022-04-16,All,6508618,143521
+524002,NP,NPL,524,,,Province 2,Nepal,27.0135,85.6846,"Province 2, Nepal",2022-04-16,All,7264451,134423
+524005,NP,NPL,524,,,Province 5,Nepal,27.9207,82.7347,"Province 5, Nepal",2022-04-16,All,7063465,156991
+524007,NP,NPL,524,,,Sudurpashchim,Nepal,29.3863,82.3886,"Sudurpashchim, Nepal",2022-04-16,All,3674074,143939
 524008,NP,NPL,524,,,Unknown,Nepal,,,"Unknown, Nepal",2022-04-16,All,0,0
 528,NL,NLD,528,,,,Netherlands,52.1326,5.2913,Netherlands,2022-04-16,All,35587410,207689
 533,AW,ABW,533,,,Aruba,Netherlands,12.5211,-69.9683,"Aruba, Netherlands",2022-04-16,All,169887,159120
