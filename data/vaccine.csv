@@ -216,7 +216,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 27616,DE,DEU,276,,,Thuringen,Germany,51.011,10.8453,"Thuringen, Germany",2022-04-23,All,3992279,186281
 27617,DE,DEU,276,,,Unknown,Germany,,,"Unknown, Germany",2022-04-23,All,0,0
 288,GH,GHA,288,,,,Ghana,7.9465,-1.0232,Ghana,2022-04-23,All,14228848,45791
-300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,2022-04-23,All,20794812,199507
+300,GR,GRC,300,,,,Greece,39.0742,21.8243,Greece,2022-04-23,All,20794878,199508
 308,GD,GRD,308,,,,Grenada,12.1165,-61.679,Grenada,2022-04-23,All,87590,77844
 320,GT,GTM,320,,,,Guatemala,15.7835,-90.2308,Guatemala,2022-04-23,All,16789259,93713
 324,GN,GIN,324,,,,Guinea,9.9456,-9.6966,Guinea,2022-04-23,All,5952680,45326
@@ -355,13 +355,13 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2022-04-23,All,2950439,45223
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2022-04-23,All,10409681,143077
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2022-04-23,All,2881812,152783
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-04-23,All,5341147,78253
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-04-23,All,5341164,78253
 422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-04-23,All,188362,44467
-422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-04-23,All,211102,46098
+422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-04-23,All,211103,46099
 422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-04-23,All,825034,190429
 422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-04-23,All,414657,77601
 422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-04-23,All,2080818,136894
-422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-04-23,All,397481,103554
+422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-04-23,All,397497,103558
 422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-04-23,All,622648,78721
 422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-04-23,All,572280,96983
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2022-04-23,All,28765,
@@ -467,7 +467,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-04-23,All,23730626,232728
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-04-23,All,6736690,233826
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-04-23,All,16764670,87144
-643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-04-23,All,165943510,113710
+643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-04-23,All,165951372,113716
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",2022-04-23,All,,0
 64302,RU,RUS,643,,,Altai Krai,Russia,52.6932243,82.69314240000001,"Altai Krai, Russia",2022-04-23,All,,0
 64304,RU,RUS,643,,,Amur Oblast,Russia,52.8032368,128.437295,"Amur Oblast, Russia",2022-04-23,All,,0
@@ -538,7 +538,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 64374,RU,RUS,643,,,Tyva Republic,Russia,51.4017149,93.8582593,"Tyva Republic, Russia",2022-04-23,All,,0
 64375,RU,RUS,643,,,Udmurt Republic,Russia,57.1961165,52.69598320000001,"Udmurt Republic, Russia",2022-04-23,All,,0
 64376,RU,RUS,643,,,Ulyanovsk Oblast,Russia,54.1463177,47.2324921,"Ulyanovsk Oblast, Russia",2022-04-23,All,,0
-64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-04-23,All,165943510,
+64384,RU,RUS,643,,,Unknown,Russia,,,"Unknown, Russia",2022-04-23,All,165951372,
 64377,RU,RUS,643,,,Vladimir Oblast,Russia,56.0503336,40.6561633,"Vladimir Oblast, Russia",2022-04-23,All,,0
 64378,RU,RUS,643,,,Volgograd Oblast,Russia,49.6048339,44.29035820000001,"Volgograd Oblast, Russia",2022-04-23,All,,0
 64379,RU,RUS,643,,,Vologda Oblast,Russia,60.0391461,43.1215213,"Vologda Oblast, Russia",2022-04-23,All,,0
