@@ -56,7 +56,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 72,BW,BWA,72,,,,Botswana,-22.3285,24.6849,Botswana,2022-04-23,All,2517260,107043
 76,BR,BRA,76,,,,Brazil,-14.235,-51.9253,Brazil,2022-04-23,All,426445178,200623
 96,BN,BRN,96,,,,Brunei,4.5353,114.7277,Brunei,2022-04-23,All,1084543,247905
-100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2022-04-23,All,4376500,62985
+100,BG,BGR,100,,,,Bulgaria,42.7339,25.4858,Bulgaria,2022-04-23,All,4376557,62986
 854,BF,BFA,854,,,,Burkina Faso,12.2383,-1.5616,Burkina Faso,2022-04-23,All,3320425,15884
 104,MM,MMR,104,,,,Burma,21.9162,95.956,Burma,2022-04-23,All,51530066,94707
 108,BI,BDI,108,,,,Burundi,-3.3731,29.9189,Burundi,2022-04-23,All,21152,177
@@ -355,7 +355,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2022-04-23,All,2950439,45223
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2022-04-23,All,10409681,143077
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2022-04-23,All,2882780,152835
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-04-23,All,5341175,78253
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-04-23,All,5341177,78253
 422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-04-23,All,188362,44467
 422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-04-23,All,211106,46099
 422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-04-23,All,825034,190429
@@ -363,7 +363,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-04-23,All,2080821,136894
 422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-04-23,All,397499,103558
 422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-04-23,All,622648,78721
-422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-04-23,All,572280,96983
+422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-04-23,All,572282,96984
 422010,LB,LBN,422,,,Unknown,Lebanon,,,"Unknown, Lebanon",2022-04-23,All,28765,
 426,LS,LSO,426,,,,Lesotho,-29.61,28.2336,Lesotho,2022-04-23,All,905438,42265
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2022-04-23,All,1132502,22391
@@ -413,7 +413,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 498,MD,MDA,498,,,,Moldova,47.4116,28.3699,Moldova,2022-04-23,All,2154271,53403
 492,MC,MCO,492,,,,Monaco,43.7333,7.4167,Monaco,2022-04-23,All,65140,165987
 496,MN,MNG,496,,,,Mongolia,46.8625,103.8467,Mongolia,2022-04-23,All,5596880,170725
-499,ME,MNE,499,,,,Montenegro,42.708678000000006,19.37439,Montenegro,2022-04-23,All,671214,106870
+499,ME,MNE,499,,,,Montenegro,42.708678000000006,19.37439,Montenegro,2022-04-23,All,671238,106874
 504,MA,MAR,504,,,,Morocco,31.7917,-7.0926,Morocco,2022-04-23,All,54379321,147327
 508,MZ,MOZ,508,,,,Mozambique,-18.665695,35.529562,Mozambique,2022-04-23,All,27843440,89083
 516,,NAM,516,,,,Namibia,-22.9576,18.4904,Namibia,2022-04-23,All,839674,33046
@@ -429,7 +429,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 528,NL,NLD,528,,,,Netherlands,52.1326,5.2913,Netherlands,2022-04-23,All,35587410,207689
 533,AW,ABW,533,,,Aruba,Netherlands,12.5211,-69.9683,"Aruba, Netherlands",2022-04-23,All,170149,159366
 535,BQ,BES,535,,,"Bonaire, Sint Eustatius and Saba",Netherlands,12.1784,-68.2385,"Bonaire, Sint Eustatius and Saba, Netherlands",2022-04-23,All,46874,178765
-531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands",2022-04-23,All,249730,152181
+531,CW,CUW,531,,,Curacao,Netherlands,12.1696,-68.99,"Curacao, Netherlands",2022-04-23,All,249753,152195
 534,SX,SXM,534,,,Sint Maarten,Netherlands,18.0425,-63.0548,"Sint Maarten, Netherlands",2022-04-23,All,62043,144683
 554,NZ,NZL,554,,,,New Zealand,-40.9006,174.886,New Zealand,2022-04-23,All,11022573,228578
 184,CK,COK,184,,,Cook Islands,New Zealand,-21.2367,-159.7777,"Cook Islands, New Zealand",2022-04-23,All,39686,227309
