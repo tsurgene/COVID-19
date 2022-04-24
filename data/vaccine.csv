@@ -31,16 +31,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3223,AR,ARG,32,,,Tierra del Fuego,Argentina,-54.3084,-67.7452,"Tierra del Fuego, Argentina",2022-04-24,All,367660,255342
 3224,AR,ARG,32,,,Tucuman,Argentina,-26.9468,-65.2857,"Tucuman, Argentina",2022-04-24,All,3254427,209765
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2022-04-24,All,2141957,72284
-36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-04-24,All,57439804,225610
-3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-04-24,All,1495423,349316
-3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-04-24,All,17823166,219551
-3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-04-24,All,571730,232789
-3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-04-24,All,10875959,212607
-3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-04-24,All,3958191,225345
-3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-04-24,All,1292952,241447
+36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-04-24,All,57467993,225721
+3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-04-24,All,1496305,349522
+3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-04-24,All,17831584,219654
+3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-04-24,All,572360,233045
+3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-04-24,All,10879732,212681
+3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-04-24,All,3960211,225460
+3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-04-24,All,1293502,241550
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2022-04-24,All,0,0
-3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-04-24,All,15115523,227990
-3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-04-24,All,6306860,239749
+3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-04-24,All,15122887,228101
+3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-04-24,All,6311412,239922
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-04-24,All,18252548,202661
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-04-24,All,13614545,134276
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-04-24,All,339546,86343
@@ -126,22 +126,22 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 191,HR,HRV,191,,,,Croatia,45.1,15.2,Croatia,2022-04-24,All,5240151,127644
 192,CU,CUB,192,,,,Cuba,21.521757,-77.78116700000002,Cuba,2022-04-24,All,35649128,314737
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,2022-04-24,All,1774676,146988
-203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,2022-04-24,All,17550940,163889
-20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2022-04-24,All,1059779,166250
-20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2022-04-24,All,1962607,167774
+203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,2022-04-24,All,17551858,163898
+20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2022-04-24,All,1060157,166309
+20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2022-04-24,All,1962667,167779
 20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2022-04-24,All,465309,158640
-20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2022-04-24,All,905100,162880
-20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2022-04-24,All,694731,158158
-20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2022-04-24,All,1781037,144093
+20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2022-04-24,All,905097,162880
+20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2022-04-24,All,694740,158160
+20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2022-04-24,All,1781041,144093
 20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2022-04-24,All,914158,142849
-20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2022-04-24,All,796666,157666
-20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2022-04-24,All,959964,162419
-20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2022-04-24,All,3219263,252949
-20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2022-04-24,All,1871328,146813
+20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2022-04-24,All,796711,157675
+20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2022-04-24,All,959998,162424
+20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2022-04-24,All,3219482,252966
+20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2022-04-24,All,1871368,146816
 20315,CZ,CZE,203,,,Unknown,Czechia,,,"Unknown, Czechia",2022-04-24,All,0,0
-20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2022-04-24,All,1255475,151194
+20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2022-04-24,All,1255571,151206
 20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.473,"Vysocina, Czechia",2022-04-24,All,799693,155968
-20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2022-04-24,All,865830,146636
+20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2022-04-24,All,865866,146642
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2022-04-24,All,13212810,228113
 234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2022-04-24,All,103894,212614
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2022-04-24,All,79745,140465
