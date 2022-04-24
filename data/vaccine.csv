@@ -41,7 +41,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2022-04-24,All,0,0
 3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-04-24,All,15122887,228101
 3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-04-24,All,6311412,239922
-40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-04-24,All,18252548,202661
+40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-04-24,All,18254267,202681
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-04-24,All,13614545,134276
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-04-24,All,339546,86343
 48,BH,BHR,48,,,,Bahrain,26.0275,50.55,Bahrain,2022-04-24,All,3430347,201597
@@ -355,12 +355,12 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 417,KG,KGZ,417,,,,Kyrgyzstan,41.20438,74.766098,Kyrgyzstan,2022-04-24,All,2950439,45223
 418,LA,LAO,418,,,,Laos,19.85627,102.495496,Laos,2022-04-24,All,10409681,143077
 428,LV,LVA,428,,,,Latvia,56.8796,24.6032,Latvia,2022-04-24,All,2882780,152835
-422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-04-24,All,5341185,78254
+422,LB,LBN,422,,,,Lebanon,33.8547,35.8623,Lebanon,2022-04-24,All,5341194,78254
 422001,LB,LBN,422,,,Akkar,Lebanon,34.5329,36.1328,"Akkar, Lebanon",2022-04-24,All,188362,44467
 422003,LB,LBN,422,,,Baalbek-Hermel,Lebanon,34.2659,36.3498,"Baalbek-Hermel, Lebanon",2022-04-24,All,211106,46099
 422004,LB,LBN,422,,,Beirut,Lebanon,33.8833,35.4999,"Beirut, Lebanon",2022-04-24,All,825035,190429
-422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-04-24,All,414660,77601
-422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-04-24,All,2080821,136894
+422005,LB,LBN,422,,,Beqaa,Lebanon,33.8463,35.9019,"Beqaa, Lebanon",2022-04-24,All,414668,77603
+422006,LB,LBN,422,,,Mount Lebanon,Lebanon,33.8101,35.5973,"Mount Lebanon, Lebanon",2022-04-24,All,2080822,136894
 422007,LB,LBN,422,,,Nabatieh,Lebanon,33.3772,35.4838,"Nabatieh, Lebanon",2022-04-24,All,397500,103559
 422008,LB,LBN,422,,,North,Lebanon,34.4381,35.8308,"North, Lebanon",2022-04-24,All,622648,78721
 422009,LB,LBN,422,,,South,Lebanon,33.2721,35.2033,"South, Lebanon",2022-04-24,All,572288,96985
@@ -369,9 +369,9 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2022-04-24,All,1132502,22391
 434,LY,LBY,434,,,,Libya,26.3351,17.228331,Libya,2022-04-24,All,1132502,46547
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2022-04-24,All,71104,186443
-440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2022-04-24,All,4476317,164431
+440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2022-04-24,All,4476376,164434
 44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2022-04-24,All,211671,
-44002,LT,LTU,440,,,Kaunas,Lithuania,,,"Kaunas, Lithuania",2022-04-24,All,979134,
+44002,LT,LTU,440,,,Kaunas,Lithuania,,,"Kaunas, Lithuania",2022-04-24,All,979141,
 44003,LT,LTU,440,,,Klaipeda,Lithuania,,,"Klaipeda, Lithuania",2022-04-24,All,431613,
 44004,LT,LTU,440,,,Marijampole,Lithuania,,,"Marijampole, Lithuania",2022-04-24,All,192612,
 44005,LT,LTU,440,,,Panevezys,Lithuania,,,"Panevezys, Lithuania",2022-04-24,All,335010,
@@ -380,7 +380,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 44008,LT,LTU,440,,,Telsiai,Lithuania,,,"Telsiai, Lithuania",2022-04-24,All,164161,
 44011,LT,LTU,440,,,Unknown,Lithuania,,,"Unknown, Lithuania",2022-04-24,All,60853,
 44009,LT,LTU,440,,,Utena,Lithuania,,,"Utena, Lithuania",2022-04-24,All,198798,
-44010,LT,LTU,440,,,Vilnius,Lithuania,,,"Vilnius, Lithuania",2022-04-24,All,1451058,
+44010,LT,LTU,440,,,Vilnius,Lithuania,,,"Vilnius, Lithuania",2022-04-24,All,1451110,
 442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2022-04-24,All,1311662,209538
 450,MG,MDG,450,,,,Madagascar,-18.766947,46.869107,Madagascar,2022-04-24,All,2236368,8076
 454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,2022-04-24,All,1993981,10423
