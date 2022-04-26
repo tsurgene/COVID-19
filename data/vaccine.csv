@@ -81,7 +81,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,2022-04-26,All,2291152,13948
 152,CL,CHL,152,,,,Chile,-35.6751,-71.543,Chile,2022-04-26,All,52241726,273284
 156,CN,CHN,156,,,,China,30.5928,114.3055,China,2022-04-26,All,3334018000,237351
-344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-04-26,All,15841413,211303
+344,HK,HKG,344,,,Hong Kong,China,22.3,114.2,"Hong Kong, China",2022-04-26,All,15862031,211578
 446,MO,MAC,446,,,Macau,China,22.1667,113.55,"Macau, China",2022-04-26,All,1332518,205210
 170,CO,COL,170,,,,Colombia,4.5709,-74.2973,Colombia,2022-04-26,All,82443202,162025
 17001,CO,COL,170,,,Amazonas,Colombia,-1.4429,-71.5724,"Amazonas, Colombia",2022-04-26,All,129969,169696
@@ -147,7 +147,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2022-04-26,All,79745,140465
 262,DJ,DJI,262,,,,Djibouti,11.8251,42.5903,Djibouti,2022-04-26,All,174640,17676
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2022-04-26,All,66357,92174
-214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2022-04-26,All,15583331,143652
+214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2022-04-26,All,15585181,143669
 218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2022-04-26,All,34006476,192747
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802498,Egypt,2022-04-26,All,80130948,78303
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2022-04-26,All,10620638,163742
@@ -553,7 +553,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-04-26,All,395440,201621
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-04-26,All,70622,208091
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-04-26,All,208657,95207
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-04-26,All,64170031,184323
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-04-26,All,64172052,184329
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-04-26,All,2496373,14909
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-04-26,All,8494958,97225
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-04-26,All,199850,203223
@@ -720,7 +720,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000055,US,USA,840,55,,Wisconsin,US,44.2685,-89.6165,"Wisconsin, US",2022-04-26,All,10216813,175473
 84000056,US,USA,840,56,,Wyoming,US,42.756,-107.3025,"Wyoming, US",2022-04-26,All,752493,130018
 800,UG,UGA,800,,,,Uganda,1.373333,32.290275,Uganda,2022-04-26,All,19399787,42412
-784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818,United Arab Emirates,2022-04-26,All,24698276,249719
+784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818,United Arab Emirates,2022-04-26,All,24704081,249778
 826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2022-04-26,All,143359047,211176
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",2022-04-26,All,23126,154152
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",2022-04-26,All,131441,211072
@@ -737,7 +737,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-04-26,All,12204545,223391
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000006,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-04-26,All,68800,177695
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-04-26,All,6966994,221977
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-04-26,All,8153459,234717
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-04-26,All,8153534,234720
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-04-26,All,46569941,139142
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-04-26,All,301000,102842
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-04-26,All,37860994,133144
