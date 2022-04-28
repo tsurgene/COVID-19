@@ -31,16 +31,16 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 3223,AR,ARG,32,,,Tierra del Fuego,Argentina,-54.3084,-67.7452,"Tierra del Fuego, Argentina",2022-04-28,All,369326,256499
 3224,AR,ARG,32,,,Tucuman,Argentina,-26.9468,-65.2857,"Tucuman, Argentina",2022-04-28,All,3262351,210276
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2022-04-28,All,2150182,72562
-36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-04-28,All,57548962,226039
-3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-04-28,All,1499176,350192
-3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-04-28,All,17854694,219939
-3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-04-28,All,574070,233741
-3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-04-28,All,10895137,212982
-3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-04-28,All,3966049,225792
-3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-04-28,All,1295521,241927
+36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-04-28,All,57609488,226277
+3601,AU,AUS,36,,,Australian Capital Territory,Australia,-35.4735,149.0124,"Australian Capital Territory, Australia",2022-04-28,All,1501231,350672
+3602,AU,AUS,36,,,New South Wales,Australia,-33.8688,151.2093,"New South Wales, Australia",2022-04-28,All,17872168,220154
+3603,AU,AUS,36,,,Northern Territory,Australia,-12.4634,130.8456,"Northern Territory, Australia",2022-04-28,All,574908,234083
+3604,AU,AUS,36,,,Queensland,Australia,-27.4698,153.0251,"Queensland, Australia",2022-04-28,All,10906725,213209
+3605,AU,AUS,36,,,South Australia,Australia,-34.9285,138.6007,"South Australia, Australia",2022-04-28,All,3970977,226073
+3606,AU,AUS,36,,,Tasmania,Australia,-42.8821,147.3272,"Tasmania, Australia",2022-04-28,All,1297467,242290
 3609,AU,AUS,36,,,Unknown,Australia,,,"Unknown, Australia",2022-04-28,All,0,0
-3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-04-28,All,15142054,228390
-3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-04-28,All,6322261,240335
+3607,AU,AUS,36,,,Victoria,Australia,-37.8136,144.9631,"Victoria, Australia",2022-04-28,All,15156568,228609
+3608,AU,AUS,36,,,Western Australia,Australia,-31.9505,115.8605,"Western Australia, Australia",2022-04-28,All,6329444,240608
 40,AT,AUT,40,,,,Austria,47.5162,14.5501,Austria,2022-04-28,All,18262116,202768
 31,AZ,AZE,31,,,,Azerbaijan,40.1431,47.5769,Azerbaijan,2022-04-28,All,13627588,134405
 44,BS,BHS,44,,,,Bahamas,25.025885,-78.035889,Bahamas,2022-04-28,All,339546,86343
@@ -226,7 +226,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-04-28,All,12118425,122351
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-04-28,All,16498370,170784
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-04-28,All,806848,236438
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-04-28,All,1884081916,136527
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-04-28,All,1884085930,136527
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-04-28,All,694471,166525
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-04-28,All,93412139,173295
 35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2022-04-28,All,1685243,107309
@@ -260,7 +260,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2022-04-28,All,105015543,134909
 35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2022-04-28,All,62471353,158706
 35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",2022-04-28,All,5284403,126730
-35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-04-28,All,5167082,
+35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-04-28,All,5171096,
 35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2022-04-28,All,312975957,131567
 35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2022-04-28,All,17439900,155009
 35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2022-04-28,All,137564489,138104
@@ -553,7 +553,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-04-28,All,395440,201621
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-04-28,All,70622,208091
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-04-28,All,208657,95207
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-04-28,All,64235775,184512
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-04-28,All,64236198,184513
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-04-28,All,2496373,14909
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-04-28,All,8494958,97225
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-04-28,All,199850,203223
@@ -662,7 +662,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2022-04-28,All,1551605,110869
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2022-04-28,All,13127000,111070
 792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2022-04-28,All,147470087,174853
-840,US,USA,840,,,,US,40.0,-100.0,US,2022-04-28,All,572216505,173679
+840,US,USA,840,,,,US,40.0,-100.0,US,2022-04-28,All,572216508,173679
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2022-04-28,All,6266563,127805
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2022-04-28,All,1142314,156150
 16,AS,ASM,16,60,,American Samoa,US,-14.271,-170.132,"American Samoa, US",2022-04-28,All,108332,194698
@@ -700,7 +700,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 84000036,US,USA,840,36,,New York,US,42.1657,-74.9481,"New York, US",2022-04-28,All,39150749,201252
 84000037,US,USA,840,37,,North Carolina,US,35.6301,-79.8064,"North Carolina, US",2022-04-28,All,16673717,158977
 84000038,US,USA,840,38,,North Dakota,US,47.5289,-99.784,"North Dakota, US",2022-04-28,All,1294850,169914
-580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2022-04-28,All,110542,200460
+580,MP,MNP,580,69,,Northern Mariana Islands,US,15.0979,145.6739,"Northern Mariana Islands, US",2022-04-28,All,110545,200466
 84000039,US,USA,840,39,,Ohio,US,40.3888,-82.7649,"Ohio, US",2022-04-28,All,17788851,152183
 84000040,US,USA,840,40,,Oklahoma,US,35.5653,-96.9289,"Oklahoma, US",2022-04-28,All,5897800,149048
 84000041,US,USA,840,41,,Oregon,US,44.572,-122.0709,"Oregon, US",2022-04-28,All,7748358,183708
