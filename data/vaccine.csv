@@ -147,7 +147,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2022-04-29,All,79745,140465
 262,DJ,DJI,262,,,,Djibouti,11.8251,42.5903,Djibouti,2022-04-29,All,176908,17905
 212,DM,DMA,212,,,,Dominica,15.415,-61.371,Dominica,2022-04-29,All,66357,92174
-214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2022-04-29,All,15590134,143715
+214,DO,DOM,214,,,,Dominican Republic,18.7357,-70.1627,Dominican Republic,2022-04-29,All,15592563,143738
 218,EC,ECU,218,,,,Ecuador,-1.8312,-78.1834,Ecuador,2022-04-29,All,34192947,193803
 818,EG,EGY,818,,,,Egypt,26.820553000000004,30.802498,Egypt,2022-04-29,All,81384156,79527
 222,SV,SLV,222,,,,El Salvador,13.7942,-88.8965,El Salvador,2022-04-29,All,10680432,164663
@@ -185,7 +185,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 312,GP,GLP,312,,,Guadeloupe,France,16.265,-61.551,"Guadeloupe, France",2022-04-29,All,372023,92976
 25007,FR,FRA,250,,,Island of France,France,4.0,-53.0,"Island of France, France",2022-04-29,All,24253796,
 25008,FR,FRA,250,,,Loire Countries,France,4.0,-53.0,"Loire Countries, France",2022-04-29,All,8537525,
-474,MQ,MTQ,474,,,Martinique,France,14.6415,-61.0242,"Martinique, France",2022-04-29,All,375914,100172
+474,MQ,MTQ,474,,,Martinique,France,14.6415,-61.0242,"Martinique, France",2022-04-29,All,378220,100787
 25009,FR,FRA,250,,,New Aquitaine,France,4.0,-53.0,"New Aquitaine, France",2022-04-29,All,13451831,
 540,NC,NCL,540,,,New Caledonia,France,-20.904305,165.618042,"New Caledonia, France",2022-04-29,All,459318,160887
 25010,FR,FRA,250,,,Normandy,France,4.0,-53.0,"Normandy, France",2022-04-29,All,7425108,
@@ -193,7 +193,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 25012,FR,FRA,250,,,Provence-Alps-Azure Coast,France,4.0,-53.0,"Provence-Alps-Azure Coast, France",2022-04-29,All,10067899,
 25013,FR,FRA,250,,,Unknown,France,,,"Unknown, France",2022-04-29,All,6170726,
 25012,FR,FRA,250,,,Upper France,France,4.0,-53.0,"Upper France, France",2022-04-29,All,12654747,
-876,WF,WLF,876,,,Wallis and Futuna,France,-14.2938,-178.1165,"Wallis and Futuna, France",2022-04-29,All,16287,106527
+876,WF,WLF,876,,,Wallis and Futuna,France,-14.2938,-178.1165,"Wallis and Futuna, France",2022-04-29,All,16426,107436
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2022-04-29,All,650502,29226
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2022-04-29,All,363353,15035
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,2022-04-29,All,2879499,72182
@@ -553,7 +553,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-04-29,All,395440,201621
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-04-29,All,70622,208091
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-04-29,All,208657,95207
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-04-29,All,64276430,184628
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-04-29,All,64277224,184631
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-04-29,All,2496373,14909
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-04-29,All,8494958,97225
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-04-29,All,199850,203223
@@ -599,7 +599,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 72417,ES,ESP,724,,,Navarra,Spain,42.6954,-1.6761,"Navarra, Spain",2022-04-29,All,1313285,202060
 72418,ES,ESP,724,,,Pais Vasco,Spain,42.9896,-2.6189,"Pais Vasco, Spain",2022-04-29,All,4401927,202119
 72420,ES,ESP,724,,,Unknown,Spain,,,"Unknown, Spain",2022-04-29,All,218054,
-144,LK,LKA,144,,,,Sri Lanka,7.873054,80.77179699999998,Sri Lanka,2022-04-29,All,39482158,184381
+144,LK,LKA,144,,,,Sri Lanka,7.873054,80.77179699999998,Sri Lanka,2022-04-29,All,39484226,184391
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,2022-04-29,All,7074667,16134
 740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,2022-04-29,All,553668,94380
 752,SE,SWE,752,,,,Sweden,60.128161,18.643501,Sweden,2022-04-29,All,21866877,216519
@@ -746,7 +746,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 80425,UA,UKR,804,,,Zakarpattia Oblast,Ukraine,48.6208,22.2879,"Zakarpattia Oblast, Ukraine",2022-04-29,All,467143,37169
 80426,UA,UKR,804,,,Zaporizhia Oblast,Ukraine,47.8388,35.1396,"Zaporizhia Oblast, Ukraine",2022-04-29,All,772356,45277
 80427,UA,UKR,804,,,Zhytomyr Oblast,Ukraine,50.2547,28.6587,"Zhytomyr Oblast, Ukraine",2022-04-29,All,627438,51421
-784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818,United Arab Emirates,2022-04-29,All,24717258,249911
+784,AE,ARE,784,,,,United Arab Emirates,23.424076,53.847818,United Arab Emirates,2022-04-29,All,24723039,249970
 826,GB,GBR,826,,,,United Kingdom,55.3781,-3.4360000000000004,United Kingdom,2022-04-29,All,143470209,211339
 660,AI,AIA,660,,,Anguilla,United Kingdom,18.2206,-63.0686,"Anguilla, United Kingdom",2022-04-29,All,23126,154152
 60,BM,BMU,60,,,Bermuda,United Kingdom,32.3078,-64.7505,"Bermuda, United Kingdom",2022-04-29,All,131441,211072
@@ -763,7 +763,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-04-29,All,12210728,223504
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000006,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-04-29,All,68800,177695
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-04-29,All,6966994,221977
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-04-29,All,8162747,234985
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-04-29,All,8163814,235015
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-04-29,All,47418486,141677
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-04-29,All,301000,102842
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-04-29,All,37860994,133144
