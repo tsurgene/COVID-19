@@ -226,7 +226,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-05-08,All,13657639,137891
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-05-08,All,16522050,171029
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-05-08,All,807383,236595
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-05-08,All,1902016227,137826
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-05-08,All,1902018036,137826
 35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-05-08,All,699962,167842
 35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-05-08,All,94181435,174722
 35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2022-05-08,All,1693193,107815
@@ -260,7 +260,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2022-05-08,All,107160608,137665
 35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2022-05-08,All,62904523,159807
 35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",2022-05-08,All,5316053,127489
-35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-05-08,All,5184192,
+35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-05-08,All,5186001,
 35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2022-05-08,All,317538081,133485
 35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2022-05-08,All,17635599,156748
 35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2022-05-08,All,138814814,139359
@@ -534,7 +534,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-05-08,All,412127,210129
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-05-08,All,70704,208332
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-05-08,All,208657,95207
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-08,All,64481383,185217
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-08,All,64481452,185217
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-05-08,All,2496373,14909
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-05-08,All,8494958,97225
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-05-08,All,201121,204515
