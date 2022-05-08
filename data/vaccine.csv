@@ -359,12 +359,12 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2022-05-08,All,2201300,43523
 434,LY,LBY,434,,,,Libya,26.3351,17.228331,Libya,2022-05-08,All,3454320,50271
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2022-05-08,All,71104,186443
-440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2022-05-08,All,4480541,164587
+440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2022-05-08,All,4480554,164587
 44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2022-05-08,All,211818,
-44002,LT,LTU,440,,,Kaunas,Lithuania,,,"Kaunas, Lithuania",2022-05-08,All,980179,
+44002,LT,LTU,440,,,Kaunas,Lithuania,,,"Kaunas, Lithuania",2022-05-08,All,980180,
 44003,LT,LTU,440,,,Klaipeda,Lithuania,,,"Klaipeda, Lithuania",2022-05-08,All,431918,
 44004,LT,LTU,440,,,Marijampole,Lithuania,,,"Marijampole, Lithuania",2022-05-08,All,192717,
-44005,LT,LTU,440,,,Panevezys,Lithuania,,,"Panevezys, Lithuania",2022-05-08,All,335152,
+44005,LT,LTU,440,,,Panevezys,Lithuania,,,"Panevezys, Lithuania",2022-05-08,All,335164,
 44006,LT,LTU,440,,,Siauliai,Lithuania,,,"Siauliai, Lithuania",2022-05-08,All,389803,
 44007,LT,LTU,440,,,Taurage,Lithuania,,,"Taurage, Lithuania",2022-05-08,All,122427,
 44008,LT,LTU,440,,,Telsiai,Lithuania,,,"Telsiai, Lithuania",2022-05-08,All,164226,
@@ -534,7 +534,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-05-08,All,412127,210129
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-05-08,All,70704,208332
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-05-08,All,208657,95207
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-08,All,64483184,185222
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-08,All,64484584,185226
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-05-08,All,2496373,14909
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-05-08,All,8494958,97225
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-05-08,All,201121,204515
