@@ -173,27 +173,27 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 231,ET,ETH,231,,,,Ethiopia,9.145,40.4897,Ethiopia,2022-05-12,All,29373478,25550
 242,FJ,FJI,242,,,,Fiji,-17.7134,178.065,Fiji,2022-05-12,All,1447529,161474
 246,FI,FIN,246,,,,Finland,61.92411,25.748151,Finland,2022-05-12,All,11788503,212761
-250,FR,FRA,250,,,,France,46.2276,2.2137,France,2022-05-12,All,147030463,238402
-25001,FR,FRA,250,,,Auvergne-Rhone Alps,France,4.0,-53.0,"Auvergne-Rhone Alps, France",2022-05-12,All,147030463,
-25003,FR,FRA,250,,,Brittany,France,4.0,-53.0,"Brittany, France",2022-05-12,All,147030463,
-25002,FR,FRA,250,,,Burgundy-Free County,France,4.0,-53.0,"Burgundy-Free County, France",2022-05-12,All,147030463,
-25004,FR,FRA,250,,,Centre-Loire Valley,France,4.0,-53.0,"Centre-Loire Valley, France",2022-05-12,All,147030463,
-25005,FR,FRA,250,,,Corsica,France,4.0,-53.0,"Corsica, France",2022-05-12,All,147030463,
-254,GF,GUF,254,,,French Guiana,France,4.0,-53.0,"French Guiana, France",2022-05-12,All,147030463,76234
-258,PF,PYF,258,,,French Polynesia,France,-17.6797,-149.4068,"French Polynesia, France",2022-05-12,All,147030463,160891
-25006,FR,FRA,250,,,Great East,France,4.0,-53.0,"Great East, France",2022-05-12,All,147030463,
-312,GP,GLP,312,,,Guadeloupe,France,16.265,-61.551,"Guadeloupe, France",2022-05-12,All,147030463,93364
-25007,FR,FRA,250,,,Island of France,France,4.0,-53.0,"Island of France, France",2022-05-12,All,147030463,
-25008,FR,FRA,250,,,Loire Countries,France,4.0,-53.0,"Loire Countries, France",2022-05-12,All,147030463,
-474,MQ,MTQ,474,,,Martinique,France,14.6415,-61.0242,"Martinique, France",2022-05-12,All,147030463,101161
-25009,FR,FRA,250,,,New Aquitaine,France,4.0,-53.0,"New Aquitaine, France",2022-05-12,All,147030463,
-540,NC,NCL,540,,,New Caledonia,France,-20.904305,165.618042,"New Caledonia, France",2022-05-12,All,147030463,161183
-25010,FR,FRA,250,,,Normandy,France,4.0,-53.0,"Normandy, France",2022-05-12,All,147030463,
-25011,FR,FRA,250,,,Occitania,France,4.0,-53.0,"Occitania, France",2022-05-12,All,147030463,
-25012,FR,FRA,250,,,Provence-Alps-Azure Coast,France,4.0,-53.0,"Provence-Alps-Azure Coast, France",2022-05-12,All,147030463,
+250,FR,FRA,250,,,,France,46.2276,2.2137,France,2022-05-12,All,147030463,225252
+25001,FR,FRA,250,,,Auvergne-Rhone Alps,France,4.0,-53.0,"Auvergne-Rhone Alps, France",2022-05-12,All,16472269,
+25003,FR,FRA,250,,,Brittany,France,4.0,-53.0,"Brittany, France",2022-05-12,All,7779996,
+25002,FR,FRA,250,,,Burgundy-Free County,France,4.0,-53.0,"Burgundy-Free County, France",2022-05-12,All,5898570,
+25004,FR,FRA,250,,,Centre-Loire Valley,France,4.0,-53.0,"Centre-Loire Valley, France",2022-05-12,All,5662336,
+25005,FR,FRA,250,,,Corsica,France,4.0,-53.0,"Corsica, France",2022-05-12,All,634657,
+254,GF,GUF,254,,,French Guiana,France,4.0,-53.0,"French Guiana, France",2022-05-12,All,227699,76234
+258,PF,PYF,258,,,French Polynesia,France,-17.6797,-149.4068,"French Polynesia, France",2022-05-12,All,451950,160891
+25006,FR,FRA,250,,,Great East,France,4.0,-53.0,"Great East, France",2022-05-12,All,11627493,
+312,GP,GLP,312,,,Guadeloupe,France,16.265,-61.551,"Guadeloupe, France",2022-05-12,All,373576,93364
+25007,FR,FRA,250,,,Island of France,France,4.0,-53.0,"Island of France, France",2022-05-12,All,24350621,
+25008,FR,FRA,250,,,Loire Countries,France,4.0,-53.0,"Loire Countries, France",2022-05-12,All,8567821,
+474,MQ,MTQ,474,,,Martinique,France,14.6415,-61.0242,"Martinique, France",2022-05-12,All,379623,101161
+25009,FR,FRA,250,,,New Aquitaine,France,4.0,-53.0,"New Aquitaine, France",2022-05-12,All,13502407,
+540,NC,NCL,540,,,New Caledonia,France,-20.904305,165.618042,"New Caledonia, France",2022-05-12,All,460164,161183
+25010,FR,FRA,250,,,Normandy,France,4.0,-53.0,"Normandy, France",2022-05-12,All,7449868,
+25011,FR,FRA,250,,,Occitania,France,4.0,-53.0,"Occitania, France",2022-05-12,All,12416179,
+25012,FR,FRA,250,,,Provence-Alps-Azure Coast,France,4.0,-53.0,"Provence-Alps-Azure Coast, France",2022-05-12,All,10114386,
 25013,FR,FRA,250,,,Unknown,France,,,"Unknown, France",2022-05-12,All,6170726,
-25012,FR,FRA,250,,,Upper France,France,4.0,-53.0,"Upper France, France",2022-05-12,All,147030463,
-876,WF,WLF,876,,,Wallis and Futuna,France,-14.2938,-178.1165,"Wallis and Futuna, France",2022-05-12,All,147030463,107436
+25012,FR,FRA,250,,,Upper France,France,4.0,-53.0,"Upper France, France",2022-05-12,All,12699150,
+876,WF,WLF,876,,,Wallis and Futuna,France,-14.2938,-178.1165,"Wallis and Futuna, France",2022-05-12,All,16426,107436
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2022-05-12,All,556657,25010
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2022-05-12,All,363353,15035
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,2022-05-12,All,2886084,72347
@@ -534,7 +534,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-05-12,All,412127,210129
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-05-12,All,70705,208335
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-05-12,All,208657,95207
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-12,All,64789321,186102
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-12,All,64792642,186111
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-05-12,All,2469499,14748
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-05-12,All,8524501,97563
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-05-12,All,201121,204515
@@ -718,7 +718,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 82603,GB,GBR,826,,,Scotland,United Kingdom,56.4907,-4.2026,"Scotland, United Kingdom",2022-05-12,All,12243857,224111
 796,TC,TCA,796,,,Turks and Caicos Islands,United Kingdom,21.694000000000003,-71.7979,"Turks and Caicos Islands, United Kingdom",2022-05-12,All,68800,177695
 82604,GB,GBR,826,,,Wales,United Kingdom,52.1307,-3.7837,"Wales, United Kingdom",2022-05-12,All,6993313,222816
-858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-05-12,All,8240624,237227
+858,UY,URY,858,,,,Uruguay,-32.5228,-55.7658,Uruguay,2022-05-12,All,8241084,237240
 860,UZ,UZB,860,,,,Uzbekistan,41.377491,64.585262,Uzbekistan,2022-05-12,All,48286000,144269
 548,VU,VUT,548,,,,Vanuatu,-15.3767,166.9592,Vanuatu,2022-05-12,All,301000,102842
 862,VE,VEN,862,,,,Venezuela,6.4238,-66.5897,Venezuela,2022-05-12,All,37860994,133144
