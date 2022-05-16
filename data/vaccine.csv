@@ -5,30 +5,30 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 20,AD,AND,20,,,,Andorra,42.5063,1.5218,Andorra,2022-05-16,All,152694,197623
 24,AO,AGO,24,,,,Angola,-11.2027,17.8739,Angola,2022-05-16,All,17896626,54452
 28,AG,ATG,28,,,,Antigua and Barbuda,17.0608,-61.7964,Antigua and Barbuda,2022-05-16,All,135605,138474
-32,AR,ARG,32,,,,Argentina,-38.4161,-63.6167,Argentina,2022-05-16,All,100505185,222377
-3201,AR,ARG,32,,,Autonomous City of Buenos Aires,Argentina,-34.6037,-58.3816,"Autonomous City of Buenos Aires, Argentina",2022-05-16,All,8104869,266250
-3202,AR,ARG,32,,,Buenos Aires,Argentina,-37.2017,-59.8411,"Buenos Aires, Argentina",2022-05-16,All,39329485,241439
-3203,AR,ARG,32,,,Catamarca,Argentina,-27.0764,-66.9988,"Catamarca, Argentina",2022-05-16,All,983018,252537
-3204,AR,ARG,32,,,Chaco,Argentina,-26.5858,-60.95399999999999,"Chaco, Argentina",2022-05-16,All,2188660,195773
-3205,AR,ARG,32,,,Chubut,Argentina,-43.6846,-69.2746,"Chubut, Argentina",2022-05-16,All,1162931,213125
-3207,AR,ARG,32,,,Cordoba,Argentina,-32.2968,-63.5806,"Cordoba, Argentina",2022-05-16,All,8261938,236754
-3206,AR,ARG,32,,,Corrientes,Argentina,-28.5842,-58.0072,"Corrientes, Argentina",2022-05-16,All,2346812,223649
-3208,AR,ARG,32,,,Entre Rios,Argentina,-32.5176,-59.1042,"Entre Rios, Argentina",2022-05-16,All,2976520,229825
-3209,AR,ARG,32,,,Formosa,Argentina,-25.3946,-58.7374,"Formosa, Argentina",2022-05-16,All,1508832,265484
-3210,AR,ARG,32,,,Jujuy,Argentina,-22.6633,-66.2367,"Jujuy, Argentina",2022-05-16,All,1612159,227025
-3211,AR,ARG,32,,,La Pampa,Argentina,-37.8957,-65.0958,"La Pampa, Argentina",2022-05-16,All,925369,274829
-3212,AR,ARG,32,,,La Rioja,Argentina,-29.9002,-66.9988,"La Rioja, Argentina",2022-05-16,All,912398,255204
-3213,AR,ARG,32,,,Mendoza,Argentina,-32.8895,-68.8458,"Mendoza, Argentina",2022-05-16,All,4122731,223840
-3214,AR,ARG,32,,,Misiones,Argentina,-26.9377,-54.4342,"Misiones, Argentina",2022-05-16,All,2106031,181641
-3215,AR,ARG,32,,,Neuquen,Argentina,-38.8234,-69.6691,"Neuquen, Argentina",2022-05-16,All,1542483,256651
-3216,AR,ARG,32,,,Rio Negro,Argentina,-40.7344,-66.6176,"Rio Negro, Argentina",2022-05-16,All,1673581,246551
-3217,AR,ARG,32,,,Salta,Argentina,-24.7821,-65.4232,"Salta, Argentina",2022-05-16,All,2653783,204776
-3218,AR,ARG,32,,,San Juan,Argentina,-30.8725,-68.5247,"San Juan, Argentina",2022-05-16,All,1659868,229952
+32,AR,ARG,32,,,,Argentina,-38.4161,-63.6167,Argentina,2022-05-16,All,100552562,222482
+3201,AR,ARG,32,,,Autonomous City of Buenos Aires,Argentina,-34.6037,-58.3816,"Autonomous City of Buenos Aires, Argentina",2022-05-16,All,8114190,266556
+3202,AR,ARG,32,,,Buenos Aires,Argentina,-37.2017,-59.8411,"Buenos Aires, Argentina",2022-05-16,All,39360468,241629
+3203,AR,ARG,32,,,Catamarca,Argentina,-27.0764,-66.9988,"Catamarca, Argentina",2022-05-16,All,983333,252618
+3204,AR,ARG,32,,,Chaco,Argentina,-26.5858,-60.95399999999999,"Chaco, Argentina",2022-05-16,All,2188713,195778
+3205,AR,ARG,32,,,Chubut,Argentina,-43.6846,-69.2746,"Chubut, Argentina",2022-05-16,All,1163091,213154
+3207,AR,ARG,32,,,Cordoba,Argentina,-32.2968,-63.5806,"Cordoba, Argentina",2022-05-16,All,8263190,236790
+3206,AR,ARG,32,,,Corrientes,Argentina,-28.5842,-58.0072,"Corrientes, Argentina",2022-05-16,All,2347219,223688
+3208,AR,ARG,32,,,Entre Rios,Argentina,-32.5176,-59.1042,"Entre Rios, Argentina",2022-05-16,All,2977399,229893
+3209,AR,ARG,32,,,Formosa,Argentina,-25.3946,-58.7374,"Formosa, Argentina",2022-05-16,All,1508836,265485
+3210,AR,ARG,32,,,Jujuy,Argentina,-22.6633,-66.2367,"Jujuy, Argentina",2022-05-16,All,1612244,227037
+3211,AR,ARG,32,,,La Pampa,Argentina,-37.8957,-65.0958,"La Pampa, Argentina",2022-05-16,All,925504,274870
+3212,AR,ARG,32,,,La Rioja,Argentina,-29.9002,-66.9988,"La Rioja, Argentina",2022-05-16,All,912883,255340
+3213,AR,ARG,32,,,Mendoza,Argentina,-32.8895,-68.8458,"Mendoza, Argentina",2022-05-16,All,4122779,223843
+3214,AR,ARG,32,,,Misiones,Argentina,-26.9377,-54.4342,"Misiones, Argentina",2022-05-16,All,2106214,181657
+3215,AR,ARG,32,,,Neuquen,Argentina,-38.8234,-69.6691,"Neuquen, Argentina",2022-05-16,All,1542652,256679
+3216,AR,ARG,32,,,Rio Negro,Argentina,-40.7344,-66.6176,"Rio Negro, Argentina",2022-05-16,All,1673818,246585
+3217,AR,ARG,32,,,Salta,Argentina,-24.7821,-65.4232,"Salta, Argentina",2022-05-16,All,2654716,204848
+3218,AR,ARG,32,,,San Juan,Argentina,-30.8725,-68.5247,"San Juan, Argentina",2022-05-16,All,1659953,229964
 3219,AR,ARG,32,,,San Luis,Argentina,-33.8769,-66.2367,"San Luis, Argentina",2022-05-16,All,1263118,272569
-3220,AR,ARG,32,,,Santa Cruz,Argentina,-48.7737,-69.1917,"Santa Cruz, Argentina",2022-05-16,All,706946,233762
-3221,AR,ARG,32,,,Santa Fe,Argentina,-30.2442,-60.5821,"Santa Fe, Argentina",2022-05-16,All,8433192,252397
-3222,AR,ARG,32,,,Santiago del Estero,Argentina,-28.1866,-63.5806,"Santiago del Estero, Argentina",2022-05-16,All,2345631,258253
-3223,AR,ARG,32,,,Tierra del Fuego,Argentina,-54.3084,-67.7452,"Tierra del Fuego, Argentina",2022-05-16,All,376121,261218
+3220,AR,ARG,32,,,Santa Cruz,Argentina,-48.7737,-69.1917,"Santa Cruz, Argentina",2022-05-16,All,707216,233852
+3221,AR,ARG,32,,,Santa Fe,Argentina,-30.2442,-60.5821,"Santa Fe, Argentina",2022-05-16,All,8434357,252432
+3222,AR,ARG,32,,,Santiago del Estero,Argentina,-28.1866,-63.5806,"Santiago del Estero, Argentina",2022-05-16,All,2345812,258273
+3223,AR,ARG,32,,,Tierra del Fuego,Argentina,-54.3084,-67.7452,"Tierra del Fuego, Argentina",2022-05-16,All,376148,261237
 3224,AR,ARG,32,,,Tucuman,Argentina,-26.9468,-65.2857,"Tucuman, Argentina",2022-05-16,All,3308709,213264
 51,AM,ARM,51,,,,Armenia,40.0691,45.0382,Armenia,2022-05-16,All,2154689,72714
 36,AU,AUS,36,,,,Australia,-25.0,133.0,Australia,2022-05-16,All,58427221,229489
@@ -226,44 +226,44 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 340,HN,HND,340,,,,Honduras,15.2,-86.2419,Honduras,2022-05-16,All,13727535,138597
 348,HU,HUN,348,,,,Hungary,47.1625,19.5033,Hungary,2022-05-16,All,16530488,171116
 352,IS,ISL,352,,,,Iceland,64.9631,-19.0208,Iceland,2022-05-16,All,808672,236973
-356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-05-16,All,1914689944,138745
-35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-05-16,All,702330,168409
-35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-05-16,All,94634323,175562
+356,IN,IND,356,,,,India,20.593684,78.96288,India,2022-05-16,All,1914758394,138750
+35601,IN,IND,356,,,Andaman and Nicobar Islands,India,11.225999,92.968178,"Andaman and Nicobar Islands, India",2022-05-16,All,702331,168410
+35602,IN,IND,356,,,Andhra Pradesh,India,15.9129,79.74,"Andhra Pradesh, India",2022-05-16,All,94644337,175581
 35603,IN,IND,356,,,Arunachal Pradesh,India,27.768456,96.384277,"Arunachal Pradesh, India",2022-05-16,All,1697968,108119
-35604,IN,IND,356,,,Assam,India,26.357149,92.830441,"Assam, India",2022-05-16,All,45111957,126693
-35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",2022-05-16,All,130670168,104703
-35606,IN,IND,356,,,Chandigarh,India,30.733839,76.76827800000001,"Chandigarh, India",2022-05-16,All,2162903,186702
-35607,IN,IND,356,,,Chhattisgarh,India,21.264705,82.035366,"Chhattisgarh, India",2022-05-16,All,39303535,133520
-35608,IN,IND,356,,,Dadra and Nagar Haveli and Daman and Diu,India,20.194742,73.080901,"Dadra and Nagar Haveli and Daman and Diu, India",2022-05-16,All,1407860,228651
-35609,IN,IND,356,,,Delhi,India,28.646519,77.10898,"Delhi, India",2022-05-16,All,33922728,181299
+35604,IN,IND,356,,,Assam,India,26.357149,92.830441,"Assam, India",2022-05-16,All,45112344,126695
+35605,IN,IND,356,,,Bihar,India,25.679658,85.60484,"Bihar, India",2022-05-16,All,130676531,104708
+35606,IN,IND,356,,,Chandigarh,India,30.733839,76.76827800000001,"Chandigarh, India",2022-05-16,All,2162921,186704
+35607,IN,IND,356,,,Chhattisgarh,India,21.264705,82.035366,"Chhattisgarh, India",2022-05-16,All,39304116,133522
+35608,IN,IND,356,,,Dadra and Nagar Haveli and Daman and Diu,India,20.194742,73.080901,"Dadra and Nagar Haveli and Daman and Diu, India",2022-05-16,All,1407862,228651
+35609,IN,IND,356,,,Delhi,India,28.646519,77.10898,"Delhi, India",2022-05-16,All,33922805,181299
 35610,IN,IND,356,,,Goa,India,15.359682,74.057396,"Goa, India",2022-05-16,All,2747903,173232
-35611,IN,IND,356,,,Gujarat,India,22.694884,71.590923,"Gujarat, India",2022-05-16,All,108410037,169729
-35612,IN,IND,356,,,Haryana,India,29.20004,76.332824,"Haryana, India",2022-05-16,All,43106132,152833
-35613,IN,IND,356,,,Himachal Pradesh,India,31.927213,77.233081,"Himachal Pradesh, India",2022-05-16,All,13022939,174758
-35614,IN,IND,356,,,Jammu and Kashmir,India,33.75943,76.612638,"Jammu and Kashmir, India",2022-05-16,All,22910876,168384
-35615,IN,IND,356,,,Jharkhand,India,23.654536,85.557631,"Jharkhand, India",2022-05-16,All,39915184,103423
-35616,IN,IND,356,,,Karnataka,India,14.70518,76.166436,"Karnataka, India",2022-05-16,All,107329158,158858
-35617,IN,IND,356,,,Kerala,India,10.450898,76.405749,"Kerala, India",2022-05-16,All,54544066,152786
+35611,IN,IND,356,,,Gujarat,India,22.694884,71.590923,"Gujarat, India",2022-05-16,All,108410622,169730
+35612,IN,IND,356,,,Haryana,India,29.20004,76.332824,"Haryana, India",2022-05-16,All,43106375,152834
+35613,IN,IND,356,,,Himachal Pradesh,India,31.927213,77.233081,"Himachal Pradesh, India",2022-05-16,All,13022959,174758
+35614,IN,IND,356,,,Jammu and Kashmir,India,33.75943,76.612638,"Jammu and Kashmir, India",2022-05-16,All,22911378,168387
+35615,IN,IND,356,,,Jharkhand,India,23.654536,85.557631,"Jharkhand, India",2022-05-16,All,39916128,103425
+35616,IN,IND,356,,,Karnataka,India,14.70518,76.166436,"Karnataka, India",2022-05-16,All,107331813,158862
+35617,IN,IND,356,,,Kerala,India,10.450898,76.405749,"Kerala, India",2022-05-16,All,54544314,152787
 35618,IN,IND,356,,,Ladakh,India,34.1526,77.5771,"Ladakh, India",2022-05-16,All,473427,172601
 35637,IN,IND,356,,,Lakshadweep,India,13.6999972,72.18333259999999,"Lakshadweep, India",2022-05-16,All,123016,190932
-35619,IN,IND,356,,,Madhya Pradesh,India,23.541513,78.289633,"Madhya Pradesh, India",2022-05-16,All,118301068,138592
-35620,IN,IND,356,,,Maharashtra,India,19.449759,76.108221,"Maharashtra, India",2022-05-16,All,166029900,134825
-35621,IN,IND,356,,,Manipur,India,24.738975,93.882541,"Manipur, India",2022-05-16,All,2872915,92928
-35622,IN,IND,356,,,Meghalaya,India,25.536934,91.278882,"Meghalaya, India",2022-05-16,All,2477776,73596
+35619,IN,IND,356,,,Madhya Pradesh,India,23.541513,78.289633,"Madhya Pradesh, India",2022-05-16,All,118302010,138593
+35620,IN,IND,356,,,Maharashtra,India,19.449759,76.108221,"Maharashtra, India",2022-05-16,All,166031018,134826
+35621,IN,IND,356,,,Manipur,India,24.738975,93.882541,"Manipur, India",2022-05-16,All,2872978,92930
+35622,IN,IND,356,,,Meghalaya,India,25.536934,91.278882,"Meghalaya, India",2022-05-16,All,2477952,73601
 35623,IN,IND,356,,,Mizoram,India,23.309381,92.83822,"Mizoram, India",2022-05-16,All,1607346,129703
-35624,IN,IND,356,,,Nagaland,India,26.06702,94.470302,"Nagaland, India",2022-05-16,All,1643528,73055
-35625,IN,IND,356,,,Odisha,India,20.505428,84.418059,"Odisha, India",2022-05-16,All,66629418,143733
-35626,IN,IND,356,,,Puducherry,India,11.882658,78.86498,"Puducherry, India",2022-05-16,All,1698333,120147
-35627,IN,IND,356,,,Punjab,India,30.841465000000003,75.40879,"Punjab, India",2022-05-16,All,43155390,143176
-35628,IN,IND,356,,,Rajasthan,India,26.583423,73.847973,"Rajasthan, India",2022-05-16,All,105804603,130570
+35624,IN,IND,356,,,Nagaland,India,26.06702,94.470302,"Nagaland, India",2022-05-16,All,1643550,73056
+35625,IN,IND,356,,,Odisha,India,20.505428,84.418059,"Odisha, India",2022-05-16,All,66631228,143737
+35626,IN,IND,356,,,Puducherry,India,11.882658,78.86498,"Puducherry, India",2022-05-16,All,1698397,120151
+35627,IN,IND,356,,,Punjab,India,30.841465000000003,75.40879,"Punjab, India",2022-05-16,All,43156908,143181
+35628,IN,IND,356,,,Rajasthan,India,26.583423,73.847973,"Rajasthan, India",2022-05-16,All,105809291,130576
 35629,IN,IND,356,,,Sikkim,India,27.571671,88.472712,"Sikkim, India",2022-05-16,All,1162084,168356
-35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2022-05-16,All,109311476,140428
-35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2022-05-16,All,63127397,160373
-35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",2022-05-16,All,5343236,128141
+35630,IN,IND,356,,,Tamil Nadu,India,11.006091,78.400624,"Tamil Nadu, India",2022-05-16,All,109318467,140437
+35631,IN,IND,356,,,Telangana,India,18.1124,79.0193,"Telangana, India",2022-05-16,All,63128933,160377
+35632,IN,IND,356,,,Tripura,India,23.746783,91.743565,"Tripura, India",2022-05-16,All,5343268,128142
 35636,IN,IND,356,,,Unknown,India,,,"Unknown, India",2022-05-16,All,5192369,
-35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2022-05-16,All,320913106,134903
-35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2022-05-16,All,17771860,157960
-35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2022-05-16,All,139451629,139998
+35633,IN,IND,356,,,Uttar Pradesh,India,26.925425,80.560982,"Uttar Pradesh, India",2022-05-16,All,320939053,134914
+35634,IN,IND,356,,,Uttarakhand,India,30.156447,79.197608,"Uttarakhand, India",2022-05-16,All,17772208,157963
+35635,IN,IND,356,,,West Bengal,India,23.814082,87.979803,"West Bengal, India",2022-05-16,All,139452184,139999
 360,ID,IDN,360,,,,Indonesia,-0.7893,113.9213,Indonesia,2022-05-16,All,401308016,146717
 360001,ID,IDN,360,,,Aceh,Indonesia,4.6951,96.7494,"Aceh, Indonesia",2022-05-16,All,7533287,142814
 360002,ID,IDN,360,,,Bali,Indonesia,-8.3405,115.092,"Bali, Indonesia",2022-05-16,All,9412762,218019
@@ -534,7 +534,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-05-16,All,412127,210129
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-05-16,All,70705,208335
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-05-16,All,208657,95207
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-16,All,64982181,186656
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-16,All,64984458,186662
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-05-16,All,2469499,14748
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-05-16,All,8524501,97563
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-05-16,All,201121,204515
@@ -643,7 +643,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 780,TT,TTO,780,,,,Trinidad and Tobago,10.6918,-61.2225,Trinidad and Tobago,2022-05-16,All,1555947,111179
 788,TN,TUN,788,,,,Tunisia,33.886917,9.537499,Tunisia,2022-05-16,All,13151111,111274
 792,TR,TUR,792,,,,Turkey,38.9637,35.2433,Turkey,2022-05-16,All,147625535,175038
-840,US,USA,840,,,,US,40.0,-100.0,US,2022-05-16,All,579215121,175804
+840,US,USA,840,,,,US,40.0,-100.0,US,2022-05-16,All,579218782,175805
 84000001,US,USA,840,1,,Alabama,US,32.3182,-86.9023,"Alabama, US",2022-05-16,All,6317012,128834
 84000002,US,USA,840,2,,Alaska,US,61.3707,-152.4044,"Alaska, US",2022-05-16,All,1153357,157660
 16,AS,ASM,16,60,,American Samoa,US,-14.271,-170.132,"American Samoa, US",2022-05-16,All,110158,197979
