@@ -126,22 +126,22 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 191,HR,HRV,191,,,,Croatia,45.1,15.2,Croatia,2022-05-20,All,5249573,127874
 192,CU,CUB,192,,,,Cuba,21.521757,-77.78116700000001,Cuba,2022-05-20,All,36375877,321153
 196,CY,CYP,196,,,,Cyprus,35.1264,33.4299,Cyprus,2022-05-20,All,1781639,147564
-203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,2022-05-20,All,17610757,164448
-20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2022-05-20,All,1062945,166746
-20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2022-05-20,All,1968877,168310
-20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2022-05-20,All,466662,159101
-20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2022-05-20,All,907775,163362
-20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2022-05-20,All,697027,158681
-20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2022-05-20,All,1786652,144547
-20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2022-05-20,All,917078,143305
-20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2022-05-20,All,798939,158116
-20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2022-05-20,All,963389,162998
-20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2022-05-20,All,3233334,254055
-20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2022-05-20,All,1879135,147425
+203,CZ,CZE,203,,,,Czechia,49.8175,15.473,Czechia,2022-05-20,All,17613057,164469
+20301,CZ,CZE,203,,,Jihocesky,Czechia,48.9458,14.4416,"Jihocesky, Czechia",2022-05-20,All,1063066,166765
+20302,CZ,CZE,203,,,Jihomoravsky,Czechia,48.9545,16.7677,"Jihomoravsky, Czechia",2022-05-20,All,1969215,168339
+20303,CZ,CZE,203,,,Karlovarsky,Czechia,50.2319,12.872,"Karlovarsky, Czechia",2022-05-20,All,466701,159114
+20304,CZ,CZE,203,,,Kralovehradecky,Czechia,50.2104,15.8252,"Kralovehradecky, Czechia",2022-05-20,All,907873,163379
+20305,CZ,CZE,203,,,Liberecky,Czechia,50.7663,15.0543,"Liberecky, Czechia",2022-05-20,All,697044,158685
+20306,CZ,CZE,203,,,Moravskoslezsky,Czechia,49.7305,18.2333,"Moravskoslezsky, Czechia",2022-05-20,All,1786903,144568
+20307,CZ,CZE,203,,,Olomoucky,Czechia,49.6587,17.0811,"Olomoucky, Czechia",2022-05-20,All,917265,143334
+20308,CZ,CZE,203,,,Pardubicky,Czechia,49.9444,16.2857,"Pardubicky, Czechia",2022-05-20,All,799063,158141
+20309,CZ,CZE,203,,,Plzensky,Czechia,49.4135,13.3157,"Plzensky, Czechia",2022-05-20,All,963501,163017
+20310,CZ,CZE,203,,,Prague,Czechia,50.07365,14.4185,"Prague, Czechia",2022-05-20,All,3233785,254090
+20311,CZ,CZE,203,,,Stredocesky,Czechia,49.8782,14.9363,"Stredocesky, Czechia",2022-05-20,All,1879440,147449
 20315,CZ,CZE,203,,,Unknown,Czechia,,,"Unknown, Czechia",2022-05-20,All,0,0
-20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2022-05-20,All,1259383,151665
-20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.473,"Vysocina, Czechia",2022-05-20,All,801768,156373
-20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2022-05-20,All,867793,146969
+20312,CZ,CZE,203,,,Ustecky,Czechia,50.6611,14.0531,"Ustecky, Czechia",2022-05-20,All,1259455,151673
+20313,CZ,CZE,203,,,Vysocina,Czechia,49.8175,15.473,"Vysocina, Czechia",2022-05-20,All,801821,156383
+20314,CZ,CZE,203,,,Zlinsky,Czechia,49.2244,17.6628,"Zlinsky, Czechia",2022-05-20,All,867925,146991
 208,DK,DNK,208,,,,Denmark,56.2639,9.5018,Denmark,2022-05-20,All,13216017,228113
 234,FO,FRO,234,,,Faroe Islands,Denmark,61.8926,-6.9118,"Faroe Islands, Denmark",2022-05-20,All,103894,212614
 304,GL,GRL,304,,,Greenland,Denmark,71.7069,-42.6043,"Greenland, Denmark",2022-05-20,All,79745,140465
