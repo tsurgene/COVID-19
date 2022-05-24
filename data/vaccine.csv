@@ -427,24 +427,24 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 600,PY,PRY,600,,,,Paraguay,-23.4425,-58.4438,Paraguay,2022-05-24,All,8677904,121666
 604,PE,PER,604,,,,Peru,-9.19,-75.0152,Peru,2022-05-24,All,70962769,209843
 608,PH,PHL,608,,,,Philippines,12.879721,121.774017,Philippines,2022-05-24,All,148929189,135907
-616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2022-05-24,All,54438412,143839
-61601,PL,POL,616,,,Dolnoslaskie,Poland,51.134,16.8842,"Dolnoslaskie, Poland",2022-05-24,All,4360122,150285
-61602,PL,POL,616,,,Kujawsko-Pomorskie,Poland,53.1648,18.4834,"Kujawsko-Pomorskie, Poland",2022-05-24,All,2944087,141694
-61605,PL,POL,616,,,Lodzkie,Poland,51.4635,19.1727,"Lodzkie, Poland",2022-05-24,All,3545644,143762
-61603,PL,POL,616,,,Lubelskie,Poland,51.2494,23.1011,"Lubelskie, Poland",2022-05-24,All,2497855,117955
-61604,PL,POL,616,,,Lubuskie,Poland,52.2275,15.2559,"Lubuskie, Poland",2022-05-24,All,1515967,149422
-61606,PL,POL,616,,,Malopolskie,Poland,49.7225,20.2503,"Malopolskie, Poland",2022-05-24,All,4553650,133908
-61607,PL,POL,616,,,Mazowieckie,Poland,51.8927,21.0022,"Mazowieckie, Poland",2022-05-24,All,8651717,160115
-61608,PL,POL,616,,,Opolskie,Poland,50.8004,17.938,"Opolskie, Poland",2022-05-24,All,1268658,128601
-61609,PL,POL,616,,,Podkarpackie,Poland,50.0575,22.0896,"Podkarpackie, Poland",2022-05-24,All,2223489,104437
-61610,PL,POL,616,,,Podlaskie,Poland,53.0697,22.9675,"Podlaskie, Poland",2022-05-24,All,1519896,128637
-61611,PL,POL,616,,,Pomorskie,Poland,54.2944,18.1531,"Pomorskie, Poland",2022-05-24,All,3616735,154990
-61612,PL,POL,616,,,Slaskie,Poland,50.5717,19.322,"Slaskie, Poland",2022-05-24,All,6430798,141848
-61613,PL,POL,616,,,Swietokrzyskie,Poland,50.6261,20.9406,"Swietokrzyskie, Poland",2022-05-24,All,1540525,124081
+616,PL,POL,616,,,,Poland,51.9194,19.1451,Poland,2022-05-24,All,54444636,143856
+61601,PL,POL,616,,,Dolnoslaskie,Poland,51.134,16.8842,"Dolnoslaskie, Poland",2022-05-24,All,4360681,150304
+61602,PL,POL,616,,,Kujawsko-Pomorskie,Poland,53.1648,18.4834,"Kujawsko-Pomorskie, Poland",2022-05-24,All,2944291,141704
+61605,PL,POL,616,,,Lodzkie,Poland,51.4635,19.1727,"Lodzkie, Poland",2022-05-24,All,3545964,143775
+61603,PL,POL,616,,,Lubelskie,Poland,51.2494,23.1011,"Lubelskie, Poland",2022-05-24,All,2498042,117964
+61604,PL,POL,616,,,Lubuskie,Poland,52.2275,15.2559,"Lubuskie, Poland",2022-05-24,All,1516083,149434
+61606,PL,POL,616,,,Malopolskie,Poland,49.7225,20.2503,"Malopolskie, Poland",2022-05-24,All,4554348,133928
+61607,PL,POL,616,,,Mazowieckie,Poland,51.8927,21.0022,"Mazowieckie, Poland",2022-05-24,All,8653183,160142
+61608,PL,POL,616,,,Opolskie,Poland,50.8004,17.938,"Opolskie, Poland",2022-05-24,All,1268779,128613
+61609,PL,POL,616,,,Podkarpackie,Poland,50.0575,22.0896,"Podkarpackie, Poland",2022-05-24,All,2223599,104442
+61610,PL,POL,616,,,Podlaskie,Poland,53.0697,22.9675,"Podlaskie, Poland",2022-05-24,All,1520002,128646
+61611,PL,POL,616,,,Pomorskie,Poland,54.2944,18.1531,"Pomorskie, Poland",2022-05-24,All,3617126,155007
+61612,PL,POL,616,,,Slaskie,Poland,50.5717,19.322,"Slaskie, Poland",2022-05-24,All,6431675,141867
+61613,PL,POL,616,,,Swietokrzyskie,Poland,50.6261,20.9406,"Swietokrzyskie, Poland",2022-05-24,All,1540583,124085
 61617,PL,POL,616,,,Unknown,Poland,,,"Unknown, Poland",2022-05-24,All,15,
-61614,PL,POL,616,,,Warminsko-mazurskie,Poland,53.8671,20.7028,"Warminsko-mazurskie, Poland",2022-05-24,All,1891062,132336
-61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2022-05-24,All,5345447,152990
-61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2022-05-24,All,2532756,148895
+61614,PL,POL,616,,,Warminsko-mazurskie,Poland,53.8671,20.7028,"Warminsko-mazurskie, Poland",2022-05-24,All,1891175,132344
+61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2022-05-24,All,5345979,153005
+61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2022-05-24,All,2533121,148916
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-05-24,All,23890354,234294
 634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-05-24,All,6855809,237961
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-05-24,All,16803326,87345
@@ -534,27 +534,27 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-05-24,All,412127,210129
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-05-24,All,70705,208335
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-05-24,All,208657,95207
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-24,All,65405116,187870
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-24,All,65409080,187882
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-05-24,All,2469499,14748
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-05-24,All,8527016,97592
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-05-24,All,201121,204515
 694,SL,SLE,694,,,,Sierra Leone,8.460555000000001,-11.779889,Sierra Leone,2022-05-24,All,2868978,35965
 702,SG,SGP,702,,,,Singapore,1.2833,103.8333,Singapore,2022-05-24,All,14055906,240257
 703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia,2022-05-24,All,7073274,129555
-705,SI,SVN,705,,,,Slovenia,46.1512,14.9955,Slovenia,2022-05-24,All,3140225,151049
-70501,SI,SVN,705,,,Gorenjska,Slovenia,46.3154,14.2913,"Gorenjska, Slovenia",2022-05-24,All,316741,154756
-70502,SI,SVN,705,,,Goriska,Slovenia,45.9402,13.6202,"Goriska, Slovenia",2022-05-24,All,182254,154956
-70503,SI,SVN,705,,,Jugovzhodna Slovenija,Slovenia,46.0569,14.5057,"Jugovzhodna Slovenija, Slovenia",2022-05-24,All,205341,142566
-70504,SI,SVN,705,,,Koroska,Slovenia,46.7222,14.1806,"Koroska, Slovenia",2022-05-24,All,110726,156862
-70505,SI,SVN,705,,,Obalno-kraska,Slovenia,45.5451,13.8847,"Obalno-kraska, Slovenia",2022-05-24,All,166759,144987
-70506,SI,SVN,705,,,Osrednjeslovenska,Slovenia,46.0552,14.5149,"Osrednjeslovenska, Slovenia",2022-05-24,All,861629,152628
-70507,SI,SVN,705,,,Podravska,Slovenia,46.7725,12.7429,"Podravska, Slovenia",2022-05-24,All,460564,142103
-70508,SI,SVN,705,,,Pomurska,Slovenia,45.7164,10.3404,"Pomurska, Slovenia",2022-05-24,All,173130,151487
-70509,SI,SVN,705,,,Posavska,Slovenia,45.2638,17.3265,"Posavska, Slovenia",2022-05-24,All,106174,151532
-70510,SI,SVN,705,,,Primorsko-notranjska,Slovenia,45.6879,14.3063,"Primorsko-notranjska, Slovenia",2022-05-24,All,80976,154110
-70511,SI,SVN,705,,,Savinjska,Slovenia,46.2309,15.2604,"Savinjska, Slovenia",2022-05-24,All,373457,142621
-70513,SI,SVN,705,,,Unknown,Slovenia,,,"Unknown, Slovenia",2022-05-24,All,12722,
-70512,SI,SVN,705,,,Zasavska,Slovenia,46.155,15.0533,"Zasavska, Slovenia",2022-05-24,All,89752,215718
+705,SI,SVN,705,,,,Slovenia,46.1512,14.9955,Slovenia,2022-05-24,All,3140294,151053
+70501,SI,SVN,705,,,Gorenjska,Slovenia,46.3154,14.2913,"Gorenjska, Slovenia",2022-05-24,All,316742,154757
+70502,SI,SVN,705,,,Goriska,Slovenia,45.9402,13.6202,"Goriska, Slovenia",2022-05-24,All,182257,154959
+70503,SI,SVN,705,,,Jugovzhodna Slovenija,Slovenia,46.0569,14.5057,"Jugovzhodna Slovenija, Slovenia",2022-05-24,All,205347,142570
+70504,SI,SVN,705,,,Koroska,Slovenia,46.7222,14.1806,"Koroska, Slovenia",2022-05-24,All,110727,156863
+70505,SI,SVN,705,,,Obalno-kraska,Slovenia,45.5451,13.8847,"Obalno-kraska, Slovenia",2022-05-24,All,166753,144982
+70506,SI,SVN,705,,,Osrednjeslovenska,Slovenia,46.0552,14.5149,"Osrednjeslovenska, Slovenia",2022-05-24,All,861662,152634
+70507,SI,SVN,705,,,Podravska,Slovenia,46.7725,12.7429,"Podravska, Slovenia",2022-05-24,All,460567,142104
+70508,SI,SVN,705,,,Pomurska,Slovenia,45.7164,10.3404,"Pomurska, Slovenia",2022-05-24,All,173135,151491
+70509,SI,SVN,705,,,Posavska,Slovenia,45.2638,17.3265,"Posavska, Slovenia",2022-05-24,All,106183,151544
+70510,SI,SVN,705,,,Primorsko-notranjska,Slovenia,45.6879,14.3063,"Primorsko-notranjska, Slovenia",2022-05-24,All,80984,154126
+70511,SI,SVN,705,,,Savinjska,Slovenia,46.2309,15.2604,"Savinjska, Slovenia",2022-05-24,All,373452,142620
+70513,SI,SVN,705,,,Unknown,Slovenia,,,"Unknown, Slovenia",2022-05-24,All,12727,
+70512,SI,SVN,705,,,Zasavska,Slovenia,46.155,15.0533,"Zasavska, Slovenia",2022-05-24,All,89758,215733
 90,SB,SLB,90,,,,Solomon Islands,-9.6457,160.1562,Solomon Islands,2022-05-24,All,452002,69234
 706,SO,SOM,706,,,,Somalia,5.152149,46.199616,Somalia,2022-05-24,All,2679487,16859
 710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2022-05-24,All,35794074,60352
