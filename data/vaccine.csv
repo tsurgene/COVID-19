@@ -63,19 +63,19 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 132,CV,CPV,132,,,,Cabo Verde,16.5388,-23.0418,Cabo Verde,2022-05-24,All,758359,136398
 116,KH,KHM,116,,,,Cambodia,11.55,104.9167,Cambodia,2022-05-24,All,38606671,230915
 120,CM,CMR,120,,,,Cameroon,3.848,11.5021,Cameroon,2022-05-24,All,1828882,6889
-124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-05-24,All,85036753,224633
+124,CA,CAN,124,,,,Canada,60.0,-95.0,Canada,2022-05-24,All,85197697,225059
 12401,CA,CAN,124,,,Alberta,Canada,53.9333,-116.5765,"Alberta, Canada",2022-05-24,All,8802520,199461
-12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-05-24,All,11637908,227706
+12402,CA,CAN,124,,,British Columbia,Canada,53.7267,-127.6476,"British Columbia, Canada",2022-05-24,All,11721850,229349
 12403,CA,CAN,124,,,Manitoba,Canada,53.7609,-98.8139,"Manitoba, Canada",2022-05-24,All,2863534,207876
-12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2022-05-24,All,1748729,224198
+12404,CA,CAN,124,,,New Brunswick,Canada,46.5653,-66.4619,"New Brunswick, Canada",2022-05-24,All,1749707,224323
 12405,CA,CAN,124,,,Newfoundland and Labrador,Canada,53.1355,-57.6604,"Newfoundland and Labrador, Canada",2022-05-24,All,970503,186146
 12406,CA,CAN,124,,,Northwest Territories,Canada,64.8255,-124.8457,"Northwest Territories,Canada",2022-05-24,All,101209,225389
 12407,CA,CAN,124,,,Nova Scotia,Canada,44.682,-63.7443,"Nova Scotia, Canada",2022-05-24,All,2235685,228724
 12416,CA,CAN,124,,,Nunavut,Canada,70.2998,-83.1076,"Nunavut, Canada",2022-05-24,All,77083,198769
 12408,CA,CAN,124,,,Ontario,Canada,51.2538,-85.3232,"Ontario, Canada",2022-05-24,All,33235491,225910
-12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2022-05-24,All,378536,239340
-12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-05-24,All,20128499,235760
-12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2022-05-24,All,2470905,209103
+12409,CA,CAN,124,,,Prince Edward Island,Canada,46.5107,-63.4168,"Prince Edward Island, Canada",2022-05-24,All,381692,241335
+12410,CA,CAN,124,,,Quebec,Canada,52.9399,-73.5491,"Quebec, Canada",2022-05-24,All,20183829,236408
+12411,CA,CAN,124,,,Saskatchewan,Canada,52.9399,-106.4509,"Saskatchewan, Canada",2022-05-24,All,2488443,210587
 12412,CA,CAN,124,,,Yukon,Canada,64.2823,-135.0,"Yukon, Canada",2022-05-24,All,92155,224341
 140,CF,CAF,140,,,,Central African Republic,6.6111,20.9394,Central African Republic,2022-05-24,All,1037580,21483
 148,TD,TCD,148,,,,Chad,15.4542,18.7322,Chad,2022-05-24,All,2347168,14289
@@ -534,7 +534,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-05-24,All,412127,210129
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-05-24,All,70705,208335
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-05-24,All,208657,95207
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-24,All,65394842,187841
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-24,All,65395150,187842
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-05-24,All,2469499,14748
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-05-24,All,8527016,97592
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-05-24,All,201121,204515
