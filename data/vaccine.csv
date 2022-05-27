@@ -305,7 +305,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 372,IE,IRL,372,,,,Ireland,53.1424,-7.6921,Ireland,2022-05-27,All,10969483,222153
 376,IL,ISR,376,,,,Israel,31.046051,34.851612,Israel,2022-05-27,All,18153551,209733
 388,JM,JAM,388,,,,Jamaica,18.1096,-77.2975,Jamaica,2022-05-27,All,1433973,48426
-392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,2022-05-27,All,279218860,220767
+392,JP,JPN,392,,,,Japan,36.204824,138.252924,Japan,2022-05-27,All,279402396,220912
 400,JO,JOR,400,,,,Jordan,31.24,36.51,Jordan,2022-05-27,All,9938176,97403
 398,KZ,KAZ,398,,,,Kazakhstan,48.0196,66.9237,Kazakhstan,2022-05-27,All,18745826,99835
 39801,KZ,KAZ,398,,,Aktobe,Kazakhstan,50.2839,57.167,"Aktobe, Kazakhstan",2022-05-27,All,790902,99230
@@ -424,7 +424,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 61615,PL,POL,616,,,Wielkopolskie,Poland,52.28,17.3523,"Wielkopolskie, Poland",2022-05-27,All,5358176,153355
 61616,PL,POL,616,,,Zachodniopomorskie,Poland,53.4658,15.1823,"Zachodniopomorskie, Poland",2022-05-27,All,2533637,148947
 620,PT,PRT,620,,,,Portugal,39.3999,-8.2245,Portugal,2022-05-27,All,23890354,234294
-634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-05-27,All,6869891,238450
+634,QA,QAT,634,,,,Qatar,25.3548,51.1839,Qatar,2022-05-27,All,6879319,238777
 642,RO,ROU,642,,,,Romania,45.9432,24.9668,Romania,2022-05-27,All,16806950,87364
 643,RU,RUS,643,,,,Russia,61.52401,105.318756,Russia,2022-05-27,All,166828750,114317
 64301,RU,RUS,643,,,Adygea Republic,Russia,44.6939006,40.1520421,"Adygea Republic, Russia",2022-05-27,All,,0
@@ -512,52 +512,52 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-05-27,All,412127,210129
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-05-27,All,70705,208335
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-05-27,All,208657,95207
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-27,All,65575729,188360
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-27,All,65576476,188363
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-05-27,All,2523856,15073
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-05-27,All,8529217,97617
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-05-27,All,201121,204515
 694,SL,SLE,694,,,,Sierra Leone,8.460555000000001,-11.779889,Sierra Leone,2022-05-27,All,2930408,36735
 702,SG,SGP,702,,,,Singapore,1.2833,103.8333,Singapore,2022-05-27,All,14088862,240821
 703,SK,SVK,703,,,,Slovakia,48.669,19.699,Slovakia,2022-05-27,All,7073274,129555
-705,SI,SVN,705,,,,Slovenia,46.1512,14.9955,Slovenia,2022-05-27,All,3140634,151069
-70501,SI,SVN,705,,,Gorenjska,Slovenia,46.3154,14.2913,"Gorenjska, Slovenia",2022-05-27,All,316819,154795
-70502,SI,SVN,705,,,Goriska,Slovenia,45.9402,13.6202,"Goriska, Slovenia",2022-05-27,All,182260,154961
-70503,SI,SVN,705,,,Jugovzhodna Slovenija,Slovenia,46.0569,14.5057,"Jugovzhodna Slovenija, Slovenia",2022-05-27,All,205353,142574
-70504,SI,SVN,705,,,Koroska,Slovenia,46.7222,14.1806,"Koroska, Slovenia",2022-05-27,All,110723,156858
-70505,SI,SVN,705,,,Obalno-kraska,Slovenia,45.5451,13.8847,"Obalno-kraska, Slovenia",2022-05-27,All,166759,144987
-70506,SI,SVN,705,,,Osrednjeslovenska,Slovenia,46.0552,14.5149,"Osrednjeslovenska, Slovenia",2022-05-27,All,861755,152650
-70507,SI,SVN,705,,,Podravska,Slovenia,46.7725,12.7429,"Podravska, Slovenia",2022-05-27,All,460697,142144
-70508,SI,SVN,705,,,Pomurska,Slovenia,45.7164,10.3404,"Pomurska, Slovenia",2022-05-27,All,173141,151496
-70509,SI,SVN,705,,,Posavska,Slovenia,45.2638,17.3265,"Posavska, Slovenia",2022-05-27,All,106197,151564
-70510,SI,SVN,705,,,Primorsko-notranjska,Slovenia,45.6879,14.3063,"Primorsko-notranjska, Slovenia",2022-05-27,All,81012,154179
-70511,SI,SVN,705,,,Savinjska,Slovenia,46.2309,15.2604,"Savinjska, Slovenia",2022-05-27,All,373467,142625
-70513,SI,SVN,705,,,Unknown,Slovenia,,,"Unknown, Slovenia",2022-05-27,All,12707,
-70512,SI,SVN,705,,,Zasavska,Slovenia,46.155,15.0533,"Zasavska, Slovenia",2022-05-27,All,89744,215699
+705,SI,SVN,705,,,,Slovenia,46.1512,14.9955,Slovenia,2022-05-27,All,3140965,151085
+70501,SI,SVN,705,,,Gorenjska,Slovenia,46.3154,14.2913,"Gorenjska, Slovenia",2022-05-27,All,316822,154796
+70502,SI,SVN,705,,,Goriska,Slovenia,45.9402,13.6202,"Goriska, Slovenia",2022-05-27,All,182255,154957
+70503,SI,SVN,705,,,Jugovzhodna Slovenija,Slovenia,46.0569,14.5057,"Jugovzhodna Slovenija, Slovenia",2022-05-27,All,205404,142609
+70504,SI,SVN,705,,,Koroska,Slovenia,46.7222,14.1806,"Koroska, Slovenia",2022-05-27,All,110725,156860
+70505,SI,SVN,705,,,Obalno-kraska,Slovenia,45.5451,13.8847,"Obalno-kraska, Slovenia",2022-05-27,All,166781,145006
+70506,SI,SVN,705,,,Osrednjeslovenska,Slovenia,46.0552,14.5149,"Osrednjeslovenska, Slovenia",2022-05-27,All,861925,152680
+70507,SI,SVN,705,,,Podravska,Slovenia,46.7725,12.7429,"Podravska, Slovenia",2022-05-27,All,460708,142148
+70508,SI,SVN,705,,,Pomurska,Slovenia,45.7164,10.3404,"Pomurska, Slovenia",2022-05-27,All,173158,151511
+70509,SI,SVN,705,,,Posavska,Slovenia,45.2638,17.3265,"Posavska, Slovenia",2022-05-27,All,106213,151587
+70510,SI,SVN,705,,,Primorsko-notranjska,Slovenia,45.6879,14.3063,"Primorsko-notranjska, Slovenia",2022-05-27,All,81011,154177
+70511,SI,SVN,705,,,Savinjska,Slovenia,46.2309,15.2604,"Savinjska, Slovenia",2022-05-27,All,373517,142644
+70513,SI,SVN,705,,,Unknown,Slovenia,,,"Unknown, Slovenia",2022-05-27,All,12704,
+70512,SI,SVN,705,,,Zasavska,Slovenia,46.155,15.0533,"Zasavska, Slovenia",2022-05-27,All,89742,215694
 90,SB,SLB,90,,,,Solomon Islands,-9.6457,160.1562,Solomon Islands,2022-05-27,All,452002,69234
 706,SO,SOM,706,,,,Somalia,5.152149,46.199616,Somalia,2022-05-27,All,2712296,17065
 710,ZA,ZAF,710,,,,South Africa,-30.5595,22.9375,South Africa,2022-05-27,All,35959268,60630
 728,SS,SSD,728,,,,South Sudan,6.877000000000001,31.307,South Sudan,2022-05-27,All,730047,6521
 724,ES,ESP,724,,,,Spain,40.463667,-3.74922,Spain,2022-05-27,All,101466700,217018
-72401,ES,ESP,724,,,Andalusia,Spain,37.5443,-4.7278,"Andalusia, Spain",2022-05-27,All,17263851,204853
-72402,ES,ESP,724,,,Aragon,Spain,41.5976,-0.9057,"Aragon, Spain",2022-05-27,All,2648824,200579
-72403,ES,ESP,724,,,Asturias,Spain,43.3614,-5.8593,"Asturias, Spain",2022-05-27,All,2292274,224247
-72404,ES,ESP,724,,,Baleares,Spain,39.710358,2.995148,"Baleares, Spain",2022-05-27,All,2043319,171964
-72411,ES,ESP,724,,,C. Valenciana,Spain,39.484,-0.7533,"C. Valenciana, Spain",2022-05-27,All,10109453,203206
-72405,ES,ESP,724,,,Canarias,Spain,28.2916,-16.6291,"Canarias, Spain",2022-05-27,All,4159654,188483
-72406,ES,ESP,724,,,Cantabria,Spain,43.1828,-3.9878,"Cantabria, Spain",2022-05-27,All,1267193,217865
-72407,ES,ESP,724,,,Castilla - La Mancha,Spain,39.2796,-3.0977,"Castilla - La Mancha, Spain",2022-05-27,All,3991931,196175
-72408,ES,ESP,724,,,Castilla y Leon,Spain,41.8357,-4.3976,"Castilla y Leon, Spain",2022-05-27,All,5310385,220555
-72409,ES,ESP,724,,,Catalonia,Spain,41.5912,1.5209,"Catalonia, Spain",2022-05-27,All,14192404,187570
-72410,ES,ESP,724,,,Ceuta,Spain,35.8894,-5.3213,"Ceuta, Spain",2022-05-27,All,150445,177350
-72412,ES,ESP,724,,,Extremadura,Spain,39.4937,-6.0679,"Extremadura, Spain",2022-05-27,All,2328680,218568
-72413,ES,ESP,724,,,Galicia,Spain,42.5751,-8.1339,"Galicia, Spain",2022-05-27,All,6121364,226680
-72419,ES,ESP,724,,,La Rioja,Spain,42.2871,-2.5396,"La Rioja, Spain",2022-05-27,All,645388,205818
-72414,ES,ESP,724,,,Madrid,Spain,40.4168,-3.7038,"Madrid, Spain",2022-05-27,All,13217554,199010
-72415,ES,ESP,724,,,Melilla,Spain,35.2923,-2.9381,"Melilla, Spain",2022-05-27,All,142458,168213
-72416,ES,ESP,724,,,Murcia,Spain,37.9922,-1.1307,"Murcia, Spain",2022-05-27,All,2815414,189250
-72417,ES,ESP,724,,,Navarra,Spain,42.6954,-1.6761,"Navarra, Spain",2022-05-27,All,1319044,202946
-72418,ES,ESP,724,,,Pais Vasco,Spain,42.9896,-2.6189,"Pais Vasco, Spain",2022-05-27,All,4414831,202712
-72420,ES,ESP,724,,,Unknown,Spain,,,"Unknown, Spain",2022-05-27,All,218765,
+72401,ES,ESP,724,,,Andalusia,Spain,37.5443,-4.7278,"Andalusia, Spain",2022-05-27,All,17273589,204969
+72402,ES,ESP,724,,,Aragon,Spain,41.5976,-0.9057,"Aragon, Spain",2022-05-27,All,2651368,200772
+72403,ES,ESP,724,,,Asturias,Spain,43.3614,-5.8593,"Asturias, Spain",2022-05-27,All,2293466,224364
+72404,ES,ESP,724,,,Baleares,Spain,39.710358,2.995148,"Baleares, Spain",2022-05-27,All,2044159,172035
+72411,ES,ESP,724,,,C. Valenciana,Spain,39.484,-0.7533,"C. Valenciana, Spain",2022-05-27,All,10115395,203325
+72405,ES,ESP,724,,,Canarias,Spain,28.2916,-16.6291,"Canarias, Spain",2022-05-27,All,4162588,188616
+72406,ES,ESP,724,,,Cantabria,Spain,43.1828,-3.9878,"Cantabria, Spain",2022-05-27,All,1267478,217914
+72407,ES,ESP,724,,,Castilla - La Mancha,Spain,39.2796,-3.0977,"Castilla - La Mancha, Spain",2022-05-27,All,3995564,196354
+72408,ES,ESP,724,,,Castilla y Leon,Spain,41.8357,-4.3976,"Castilla y Leon, Spain",2022-05-27,All,5314356,220720
+72409,ES,ESP,724,,,Catalonia,Spain,41.5912,1.5209,"Catalonia, Spain",2022-05-27,All,14205542,187744
+72410,ES,ESP,724,,,Ceuta,Spain,35.8894,-5.3213,"Ceuta, Spain",2022-05-27,All,152585,179873
+72412,ES,ESP,724,,,Extremadura,Spain,39.4937,-6.0679,"Extremadura, Spain",2022-05-27,All,2330138,218705
+72413,ES,ESP,724,,,Galicia,Spain,42.5751,-8.1339,"Galicia, Spain",2022-05-27,All,6123935,226775
+72419,ES,ESP,724,,,La Rioja,Spain,42.2871,-2.5396,"La Rioja, Spain",2022-05-27,All,646610,206208
+72414,ES,ESP,724,,,Madrid,Spain,40.4168,-3.7038,"Madrid, Spain",2022-05-27,All,13238833,199330
+72415,ES,ESP,724,,,Melilla,Spain,35.2923,-2.9381,"Melilla, Spain",2022-05-27,All,144017,170053
+72416,ES,ESP,724,,,Murcia,Spain,37.9922,-1.1307,"Murcia, Spain",2022-05-27,All,2817878,189416
+72417,ES,ESP,724,,,Navarra,Spain,42.6954,-1.6761,"Navarra, Spain",2022-05-27,All,1320644,203192
+72418,ES,ESP,724,,,Pais Vasco,Spain,42.9896,-2.6189,"Pais Vasco, Spain",2022-05-27,All,4417865,202851
+72420,ES,ESP,724,,,Unknown,Spain,,,"Unknown, Spain",2022-05-27,All,218952,
 144,LK,LKA,144,,,,Sri Lanka,7.873054,80.77179699999999,Sri Lanka,2022-05-27,All,39550965,184703
 729,SD,SDN,729,,,,Sudan,12.8628,30.2176,Sudan,2022-05-27,All,7096087,16182
 740,SR,SUR,740,,,,Suriname,3.9193,-56.0278,Suriname,2022-05-27,All,553668,94380
