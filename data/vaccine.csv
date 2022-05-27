@@ -197,7 +197,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 266,GA,GAB,266,,,,Gabon,-0.8037,11.6094,Gabon,2022-05-27,All,558456,25090
 270,GM,GMB,270,,,,Gambia,13.4432,-15.3101,Gambia,2022-05-27,All,363353,15035
 268,GE,GEO,268,,,,Georgia,42.3154,43.3569,Georgia,2022-05-27,All,2891402,72481
-276,DE,DEU,276,,,,Germany,51.165691,10.451526,Germany,2022-05-27,All,179927467,214751
+276,DE,DEU,276,,,,Germany,51.165691,10.451526,Germany,2022-05-27,All,179931876,214756
 27601,DE,DEU,276,,,Baden-Wurttemberg,Germany,48.6616,9.3501,"Baden-Wurttemberg, Germany",2022-05-27,All,23143528,209074
 27602,DE,DEU,276,,,Bayern,Germany,48.7904,11.4979,"Bayern, Germany",2022-05-27,All,27351264,209159
 27603,DE,DEU,276,,,Berlin,Germany,52.52,13.405,"Berlin, Germany",2022-05-27,All,8115244,222651
@@ -337,18 +337,18 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 430,LR,LBR,430,,,,Liberia,6.4280550000000005,-9.429499,Liberia,2022-05-27,All,2201300,43523
 434,LY,LBY,434,,,,Libya,26.3351,17.228331,Libya,2022-05-27,All,3460229,50357
 438,LI,LIE,438,,,,Liechtenstein,47.14,9.55,Liechtenstein,2022-05-27,All,71104,186443
-440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2022-05-27,All,4484119,164718
-44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2022-05-27,All,211902,
-44002,LT,LTU,440,,,Kaunas,Lithuania,,,"Kaunas, Lithuania",2022-05-27,All,981003,
-44003,LT,LTU,440,,,Klaipeda,Lithuania,,,"Klaipeda, Lithuania",2022-05-27,All,432202,
-44004,LT,LTU,440,,,Marijampole,Lithuania,,,"Marijampole, Lithuania",2022-05-27,All,192767,
-44005,LT,LTU,440,,,Panevezys,Lithuania,,,"Panevezys, Lithuania",2022-05-27,All,335357,
-44006,LT,LTU,440,,,Siauliai,Lithuania,,,"Siauliai, Lithuania",2022-05-27,All,389974,
-44007,LT,LTU,440,,,Taurage,Lithuania,,,"Taurage, Lithuania",2022-05-27,All,122477,
-44008,LT,LTU,440,,,Telsiai,Lithuania,,,"Telsiai, Lithuania",2022-05-27,All,164283,
+440,LT,LTU,440,,,,Lithuania,55.1694,23.8813,Lithuania,2022-05-27,All,4484330,164726
+44001,LT,LTU,440,,,Alytus,Lithuania,,,"Alytus, Lithuania",2022-05-27,All,211906,
+44002,LT,LTU,440,,,Kaunas,Lithuania,,,"Kaunas, Lithuania",2022-05-27,All,981069,
+44003,LT,LTU,440,,,Klaipeda,Lithuania,,,"Klaipeda, Lithuania",2022-05-27,All,432225,
+44004,LT,LTU,440,,,Marijampole,Lithuania,,,"Marijampole, Lithuania",2022-05-27,All,192771,
+44005,LT,LTU,440,,,Panevezys,Lithuania,,,"Panevezys, Lithuania",2022-05-27,All,335364,
+44006,LT,LTU,440,,,Siauliai,Lithuania,,,"Siauliai, Lithuania",2022-05-27,All,389992,
+44007,LT,LTU,440,,,Taurage,Lithuania,,,"Taurage, Lithuania",2022-05-27,All,122478,
+44008,LT,LTU,440,,,Telsiai,Lithuania,,,"Telsiai, Lithuania",2022-05-27,All,164287,
 44011,LT,LTU,440,,,Unknown,Lithuania,,,"Unknown, Lithuania",2022-05-27,All,60853,
-44009,LT,LTU,440,,,Utena,Lithuania,,,"Utena, Lithuania",2022-05-27,All,199048,
-44010,LT,LTU,440,,,Vilnius,Lithuania,,,"Vilnius, Lithuania",2022-05-27,All,1454783,
+44009,LT,LTU,440,,,Utena,Lithuania,,,"Utena, Lithuania",2022-05-27,All,199062,
+44010,LT,LTU,440,,,Vilnius,Lithuania,,,"Vilnius, Lithuania",2022-05-27,All,1454853,
 442,LU,LUX,442,,,,Luxembourg,49.8153,6.1296,Luxembourg,2022-05-27,All,1295224,206912
 450,MG,MDG,450,,,,Madagascar,-18.766947,46.869107,Madagascar,2022-05-27,All,2369775,8557
 454,MW,MWI,454,,,,Malawi,-13.2543,34.3015,Malawi,2022-05-27,All,1993981,10423
@@ -512,7 +512,7 @@ UID,iso2,iso3,code3,FIPS,Admin2,Province_State,Country_Region,Lat,Long_,Combined
 882,WS,WSM,882,,,,Samoa,-13.759,-172.1046,Samoa,2022-05-27,All,412127,210129
 674,SM,SMR,674,,,,San Marino,43.9424,12.4578,San Marino,2022-05-27,All,70705,208335
 678,ST,STP,678,,,,Sao Tome and Principe,0.1864,6.6131,Sao Tome and Principe,2022-05-27,All,208657,95207
-682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-27,All,65573986,188355
+682,SA,SAU,682,,,,Saudi Arabia,23.885942,45.079162,Saudi Arabia,2022-05-27,All,65574701,188357
 686,SN,SEN,686,,,,Senegal,14.4974,-14.4524,Senegal,2022-05-27,All,2523856,15073
 688,RS,SRB,688,,,,Serbia,44.0165,21.0059,Serbia,2022-05-27,All,8528958,97614
 690,SC,SYC,690,,,,Seychelles,-4.6796,55.492,Seychelles,2022-05-27,All,201121,204515
